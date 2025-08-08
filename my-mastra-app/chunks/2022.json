@@ -1,0 +1,612 @@
+[
+  {
+    "id_": "fbacec80-7019-4b1f-9a46-b7135a16aeb9",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Berkshire’s Performance vs. the S&P 500\nAnnual Percentage Change\nYear\nin Per-Share\nMarket Value of\nBerkshire\nin S&P 500\nwith Dividends\nIncluded\n1965.........................................................................49.510.0\n1966.........................................................................(3.4)(11.7)\n1967.........................................................................13.330.9\n1968.........................................................................77.811.0",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0db52149-3b1e-43f8-a34c-3b90822e6f3e",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "1969.........................................................................19.4(8.4)\n1970.........................................................................(4.6)3.9\n1971.........................................................................80.514.6\n1972.........................................................................8.118.9\n1973.........................................................................(2.5)(14.8)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b5d5ad0f-8960-4e4e-a2aa-f19fcc53ced9",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "1974.........................................................................(48.7)(26.4)\n1975.........................................................................2.537.2\n1976.........................................................................129.323.6\n1977.........................................................................46.8(7.4)\n1978.........................................................................14.56.4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d1cfbca4-e2ac-4fdd-bc86-d754b233a4c9",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "1979.........................................................................102.518.2\n1980.........................................................................32.832.3\n1981.........................................................................31.8(5.0)\n1982.........................................................................38.421.4\n1983.........................................................................69.022.4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "07b72d50-0925-4fda-9093-8d0b67d4908c",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "1984.........................................................................(2.7)6.1\n1985.........................................................................93.731.6\n1986.........................................................................14.218.6\n1987.........................................................................4.65.1\n1988.........................................................................59.316.6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "358e7984-6825-4f80-9d0c-dd152c431e60",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "1989.........................................................................84.631.7\n1990.........................................................................(23.1)(3.1)\n1991.........................................................................35.630.5\n1992.........................................................................29.87.6\n1993.........................................................................38.910.1",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3d3edbc8-6768-437b-b33f-6216489f53ef",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "1994.........................................................................25.01.3\n1995.........................................................................57.437.6\n1996.........................................................................6.223.0\n1997.........................................................................34.933.4\n1998.........................................................................52.228.6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "4a9dadfd-cf37-4bb0-9bf1-66742e322f56",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "1999.........................................................................(19.9)21.0\n2000.........................................................................26.6(9.1)\n2001.........................................................................6.5(11.9)\n2002.........................................................................(3.8)(22.1)\n2003.........................................................................15.828.7",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e9a76c2a-c9c5-49f5-9c3f-c1a7623bcee1",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "2004.........................................................................4.310.9\n2005.........................................................................0.84.9\n2006.........................................................................24.115.8\n2007.........................................................................28.75.5\n2008.........................................................................(31.8)(37.0)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "24f0c8ab-09ea-4a2c-9977-2ccab3863e31",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "2009.........................................................................2.726.5\n2010.........................................................................21.415.1\n2011.........................................................................(4.7)2.1\n2012.........................................................................16.816.0\n2013.........................................................................32.732.4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "334bfbd7-1259-44b7-9028-5ee8ca10552e",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "2014.........................................................................27.013.7\n2015.........................................................................(12.5)1.4\n2016.........................................................................23.412.0\n2017.........................................................................21.921.8\n2018.........................................................................2.8(4.4)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d05794ad-4769-44a3-a712-e2826d512759",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "2019.........................................................................11.031.5\n2020.........................................................................2.418.4\n2021.........................................................................29.628.7\n2022.........................................................................4.0(18.1)\nCompounded Annual Gain – 1965-2022.............................................19.8%9.9%",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c03a2128-bfca-47d4-9de1-11e2d3b9121e",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Overall Gain – 1964-2022........................................................3,787,464%24,708%\nNote:Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.\n2",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5539a2cb-0bb6-4bf2-a509-48ab97058ccd",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "BERKSHIRE HATHAWAY INC.\nTo the Shareholders of Berkshire Hathaway Inc.:\nCharlie Munger, my long-time partner, and I have the job of managing the savings of a\ngreat number ofindividuals. We are grateful for their enduring trust, a relationship that often spans\nmuch of their adult lifetime. It is those dedicated savers that are forefront in my mind as I write\nthis letter.\nA common belief is that people choose to save when young, expecting thereby to maintain",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "01f84c7e-ab61-4724-af0c-e888b2471d2d",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "their living standards after retirement. Any assets that remain at death, this theory says, will usually\nbe left to their families or, possibly, to friends and philanthropy.\nOur experience has differed. We believe Berkshire’s individual holders largely to be of the\nonce-a-saver, always-a-saver variety. Though these people live well, they eventually dispense\nmost of their funds to philanthropic organizations. These, in turn, redistribute the funds by",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "057610e8-940d-4b5d-b925-423f8dbf1f6f",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "expenditures intended to improve the lives of a great many people who are unrelated to the original\nbenefactor. Sometimes, the results have been spectacular.\nThe disposition of money unmasks humans. Charlie and I watch with pleasure the vast flow\nof Berkshire-generated funds to public needs and, alongside, the infrequency with which our\nshareholders opt for look-at-me assets and dynasty-building.\nWhowouldn’tenjoy working for shareholders like ours?\nWhat We Do",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9ebad26f-ebd7-4135-bfe8-0133852ec082",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "What We Do\nCharlie and I allocate your savings at Berkshire between two related forms of ownership.\nFirst, we invest in businesses that we control, usually buying 100% of each. Berkshire directs\ncapital allocation at these subsidiaries and selects the CEOs who make day-by-day operating\ndecisions. When large enterprises are being managed, both trust and rules are essential. Berkshire\nemphasizes the former to an unusual – some would say extreme – degree. Disappointments are",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d25faf34-eee2-4d3c-ab77-363dca7474ea",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "inevitable. We are understanding aboutbusinessmistakes; our tolerance for personal misconduct\nis zero.\nIn our second category of ownership, we buy publicly-traded stocks through which we\npassively ownpiecesof businesses. Holdingtheseinvestments, we have no say in management.\n3",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "39149bbb-0c9d-41ac-9ad7-9ee2ed414fff",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Our goal in both forms of ownership is to make meaningful investments inbusinesseswith\nboth long-lasting favorable economic characteristics and trustworthy managers. Please note\nparticularly that we own publicly-traded stocks based on our expectations about their long-term\nbusinessperformance, not because we view them as vehicles for adroit purchases and sales. That\npoint is crucial: Charlie and I arenotstock-pickers; we are business-pickers.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "14b2a1a2-eab7-4b3d-bd16-9384fca853a1",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Over the years, I have made many mistakes. Consequently, our extensive collection of\nbusinesses currently consists of a few enterprises that have truly extraordinary economics, many\nthat enjoy very good economic characteristics, and a large group that are marginal. Along the way,\nother businesses in which I have invested have died, their products unwanted by the public.\nCapitalism has two sides: The system creates an ever-growing pile of losers while concurrently",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "36577af1-b6ec-4438-9751-611cd5f8eb12",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "delivering a gusher of improved goods and services. Schumpeter called this phenomenon “creative\ndestruction.”\nOne advantage of our publicly-traded segment is that – episodically – it becomes easy to\nbuypiecesof wonderful businesses at wonderful prices. It’s crucial to understand that stocks often\ntrade at truly foolish prices, both high and low. “Efficient” markets exist only in textbooks. In\ntruth, marketable stocks and bonds are baffling, their behavior usually understandable only in\nretrospect.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "75cbbcde-ff47-43d6-9e16-06b8cf20815d",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "retrospect.\nControlled businesses are a different breed. They sometimes command ridiculouslyhigher\nprices than justified but are almost never available at bargain valuations. Unless under duress, the\nowner of a controlled business gives no thought to selling at a panic-type valuation.\n************\nAt this point, a report card from me is appropriate: In 58 years of Berkshire management,\nmost of my capital-allocation decisions have been no better than so-so. In some cases, also, bad",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "796c4b89-f213-48c7-b217-1e0caec00f66",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "moves by me have been rescued by very large doses of luck. (Remember our escapes from\nnear-disasters at USAir and Salomon? I certainly do.)\nOur satisfactory results have been the product of about a dozen truly good decisions – that\nwould be about one every five years –anda sometimes-forgotten advantage that favors long-term\ninvestors such as Berkshire. Let’s take a peek behind the curtain.\nThe Secret Sauce\nIn August 1994 – yes, 1994 – Berkshirecompletedits seven-year purchase of the 400",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "19c1712a-2330-4f5d-885e-5d4c4085102f",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "million shares of Coca-Cola we now own. The total cost was $1.3 billion – then a very meaningful\nsumatBerkshire.\nThe cash dividend we received from Coke in 1994 was $75 million. By 2022, the dividend\nhad increased to$704million. Growth occurred every year, just as certain as birthdays. All Charlie\nand I were required to do was cash Coke’s quarterly dividend checks. We expect that those checks\narehighlylikelytogrow.\n4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9a94e32e-4d41-4cc9-b3fd-35bf81d73fda",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "American Express is much the same story. Berkshire’s purchases of Amex were essentially\ncompleted in 1995 and, coincidentally, also cost $1.3 billion. Annual dividends received from this\ninvestment have grown from $41 million to$302million. Those checks, too, seem highly likely\nto increase.\nThese dividend gains, though pleasing, arefarfrom spectacular. But they bring with them\nimportant gains in stock prices. At yearend, our Coke investment was valued at $25 billion while",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e0e309a9-1e02-4b38-ae24-535095f21d51",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Amex was recorded at $22 billion. Each holding now accounts for roughly 5% of Berkshire’s net\nworth, akin to its weighting long ago.\nAssume, for a moment, I had made a similarly-sized investment mistake in the 1990s, one\nthat flat-lined and simply retained its $1.3 billion value in 2022. (An example would be a\nhigh-grade 30-year bond.) That disappointing investment would now represent an insignificant\n0.3% of Berkshire’s net worth and would be delivering to us an unchanged $80 million or so of",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1bd270d2-66c8-4e89-93db-0e3c879d2ed9",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "annual income.\nThe lesson for investors: The weeds wither away in significance as the flowers bloom.\nOver time, it takes just a few winners to work wonders. And, yes, it helps to start early and live\ninto your 90s as well.\nThe Past Year in Brief\nBerkshire had a good year in 2022. The company’soperating  earnings– our term for\nincome calculated using Generally Accepted Accounting Principles (“GAAP”),exclusiveof",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8b5982ba-1451-4839-8bc0-ffc66e7bf87b",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "capital gains or losses from equity holdings – set a record at $30.8 billion. Charlie and I focus on\nthis operational figure and urge you to do so as well. The GAAP figure,absent our adjustment,\nfluctuates wildly and capriciously at every reporting date. Note its acrobatic behavior in 2022,\nwhich is in no way unusual:\nEarnings in $ billions\n2022 Quarter“Operating Earnings”\nGAAP Earnings We\nare Required to Report\n17.05.5\n29.3(43.8)\n37.8(2.7)\n46.718.2",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e84e3e73-34ff-4aba-82c2-a65fa4396778",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "17.05.5\n29.3(43.8)\n37.8(2.7)\n46.718.2\nThe GAAP earnings are 100% misleading when viewed quarterly or even annually. Capital\ngains, to be sure, have been hugely important to Berkshire over past decades, and we expect them\nto be meaningfully positive in future decades. But their quarter-by-quarter gyrations, regularly and\nmindlessly headlined by media, totally misinform investors.\n5",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c7fb6756-0f85-4dce-a976-d9bf86809bdf",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "A second positive development for Berkshire last year was our purchase of Alleghany\nCorporation, a property-casualty insurer captained by Joe Brandon. I’ve worked with Joe in the\npast, and he understands both Berkshire and insurance. Alleghany delivers special value to\nus because Berkshire’s unmatched financial strength allows its insurance subsidiaries to follow\nvaluable and enduring investment strategies unavailable to virtually all competitors.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "79bce1b9-3ad5-45e4-bf17-1c2da32ed27c",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Aided by Alleghany, our insurance float increased during 2022 from $147 billion to $164\nbillion. With disciplined underwriting, these funds have a decent chance of beingcost-freeover\ntime. Since purchasing our first property-casualty insurer in 1967, Berkshire’s float has increased\n8,000-fold through acquisitions, operations and innovations. Thoughnotrecognized in our\nfinancial statements, this float has been an extraordinary asset for Berkshire. New shareholders",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "796403c2-6deb-4968-a2dc-257c8c5ee0cc",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "can get an understanding of its value by reading our annually updated explanation of float on\npage A-2.\n************\nAveryminor gain in per-share intrinsic value took place in 2022 through Berkshire share\nrepurchases as well as similar moves at Apple and American Express, both significant investees\nof ours. At Berkshire, we directly increased your interest in our unique collection of businesses by\nrepurchasing 1.2% of the company’s outstanding shares. At Apple and Amex, repurchases",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "2fde1ad5-ccc8-4afb-823b-9b5e1f03d214",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "increased Berkshire’s ownership a bit without any cost to us.\nThe math isn’t complicated: When the share count goes down,yourinterest in our many\nbusinesses goesup. Every small bit helpsif repurchases are made at value-accretive prices.Just\nas surely, when a company overpays for repurchases, the continuing shareholderslose. At such\ntimes, gains flow only to thesellingshareholders and to the friendly, but expensive, investment\nbanker who recommended the foolish purchases.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "bd0ed04e-5c12-49f2-9f75-e3c7262f3d70",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "banker who recommended the foolish purchases.\nGains from value-accretive repurchases, it should be emphasized, benefitallowners – in\neveryrespect. Imagine, if you will, three fully-informed shareholders of a local auto dealership,\none of whom manages the business. Imagine, further, that one of the passive owners wishes to sell\nhis interest back to the company at a price attractive to the two continuing shareholders. When\ncompleted, has this transaction harmed anyone? Is the manager somehow favored over the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "07baf90f-3afb-45cc-838b-ac7a119d8cad",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "continuing passive owners? Has the public been hurt?\nWhen you are told thatallrepurchases are harmful to shareholdersorto the country,or\nparticularly beneficial to CEOs, you are listening to either an economic illiterate or a\nsilver-tongued demagogue (characters that arenotmutually exclusive).\n6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d3e507a0-c9d7-4a14-9e63-22af25ad7853",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Almost endless details of Berkshire’s 2022 operations are laid out on pages K-33 – K-66.\nCharlie and I, along with many Berkshire shareholders, enjoy poring over the many facts and\nfigures laid out in that section. These pages arenot, however, required reading. There are many\nBerkshire centimillionaires and, yes, billionaires who have never studied our financial figures.\nThey simply know that Charlie and I – along with our families and close friends – continue to have",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1b2b68a5-258b-4af9-bbfc-63a26aae6171",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "very significant investments in Berkshire, and they trust us to treat their money as we do our own.\nAndthatis a promise we can make.\n************\nFinally, an important warning: Even theoperatingearnings figure that we favor can easily\nbe manipulated by managers who wish to do so. Such tampering is often thought of as sophisticated\nby CEOs, directors and their advisors. Reporters and analysts embrace its existence as well.\nBeating “expectations” is heralded as a managerial triumph.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "067ad15b-62ba-4262-bec5-2e92cc2a5b30",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "That activity is disgusting. It requires no talent to manipulate numbers: Only a deep desire\nto deceive is required. “Bold imaginative accounting,” as a CEO once described his deception to\nme, has become one of the shames of capitalism.\n58 Years – and a Few Figures\nIn 1965, Berkshire was a one-trick pony, the owner of a venerable – but doomed – New\nEngland textile operation. With that business on a death march, Berkshire needed an immediate",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3078ec89-c653-42ed-bd0e-13d2f1e0a9c7",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "fresh start. Looking back, I was slow to recognize the severity of its problems.\nAnd then came a stroke of good luck: National Indemnity became available in 1967, and\nwe shifted our resources toward insurance and other non-textile operations.\nThus began our journey to 2023, a bumpy road involving a combination ofcontinuous\nsavings by our owners (that is, by their retaining earnings), the power of compounding, our\navoidance ofmajormistakes and – most important of all – the American Tailwind. America would",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "91e7d446-2a1f-4f7c-8c63-c845b9a80e51",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "have done fine without Berkshire. The reverse isnottrue.\nBerkshire now enjoys major ownership in an unmatched collection of huge and diversified\nbusinesses. Let’s first look at the 5,000 or so publicly-held companies that trade daily on\nNASDAQ, the NYSE and related venues. Within this group is housed the members of the S&P\n500 Index, an elite collection of large and well-known American companies.\nIn aggregate, the 500 earned $1.8 trillion in 2021. I don’t yet have the final results for 2022.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0dda354c-2674-4544-817e-f6b6f718990e",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Using, therefore, the 2021 figures, only 128 of the 500 (including Berkshire itself) earned $3 billion\nor more. Indeed, 23 lost money.\n7",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a5c969c7-f492-4189-8362-ac65e4406faf",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "At yearend 2022, Berkshire was the largest owner ofeightof these giants: American\nExpress, Bank of America, Chevron, Coca-Cola, HP Inc., Moody’s, Occidental Petroleum and\nParamount Global.\nIn addition to those eight investees, Berkshire owns 100% of BNSF and 92% of BH\nEnergy, each with earnings that exceed the $3 billion mark noted above ($5.9 billion at BNSF and\n$4.3 billion at BHE). Were these companies publicly-owned, they would replace two present",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a88b3504-b6b4-4bfb-b392-6d737d9d9c8f",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "members of the 500. All told, our ten controlled and non-controlled behemoths leave Berkshire\nmore broadly aligned with the country’s economic future than is the case at any other U.S.\ncompany. (This calculation leaves aside “fiduciary” operations such as pension funds and\ninvestment companies.) In addition, Berkshire’s insurance operation, though conducted through\nmany individually-managed subsidiaries, has a value comparable to BNSF or BHE.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c6a92a0a-228f-4494-a8f2-ea01f0cd33c5",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "As for the future, Berkshire will always hold a boatload of cash and U.S. Treasury bills\nalong with a wide array of businesses. We will also avoid behavior that could result inany\nuncomfortable cash needs at inconvenient times, including financial panics and unprecedented\ninsurance losses. Our CEO will always be the Chief Risk Officer – a task it is irresponsible to\ndelegate. Additionally, our future CEOs will have a significant part of their net worth in Berkshire",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c88ae6a5-6572-4b2e-9bab-64332e4590e8",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "shares, bought with their own money.Andyes, our shareholders will continue to save and prosper\nby retaining earnings.\nAt Berkshire, there will be no finish line.\nSome Surprising Facts About Federal Taxes\nDuring the decade ending in 2021, the United States Treasury received about $32.3 trillion\nin taxes while it spent $43.9 trillion.\nThough  economists,  politicians  and  many  of  the  public  have  opinions  about  the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b35054c4-cd3f-423f-8ca9-4dbb77962781",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "consequences of that huge imbalance, Charlie and I plead ignorance and firmly believe that\nnear-term economic and market forecasts are worse than useless. Our job is to manage Berkshire’s\noperations and finances in a manner that will achieve an acceptable result over time and that will\npreserve the company’s unmatched staying power when financial panics or severe worldwide\nrecessions occur. Berkshire also offers some modest protection from runaway inflation, but this",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "718a6d7a-aa4f-4ccc-8e11-af0c03bcd070",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "attribute isfarfrom perfect. Huge and entrenched fiscal deficits have consequences.\nThe $32 trillion of revenue was garnered by the Treasury through individual income taxes\n(48%), social security and related receipts (34\n1\n⁄2%), corporate income tax payments (8\n1\n⁄2%) and a\nwide variety of lesser levies. Berkshire’s contribution via the corporate income tax was $32 billion\nduring the decade, almost exactly a tenth of 1% ofallmoney that the Treasury collected.\n8",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "36fa709b-c486-4796-aab0-a24adb360264",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "And that means – brace yourself – had there been roughly 1,000 taxpayers in the U.S.\nmatching Berkshire’s payments, no other businesses nor any of the country’s 131 million\nhouseholds would have needed to payanytaxes to the federal government. Not a dime.\n************\nMillions, billions, trillions – we all know the words, but the sums involved are almost\nimpossible to comprehend. Let’s put physical dimensions to the numbers:",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "914b8354-86d3-47dc-8d25-5797178b5b77",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "• If you convert $1 million into newly-printed $100 bills, you will have a stack that reaches\nyour chest.\n• Perform the same exercise with $1billion– this is getting exciting! – and the stack reaches\nabout\n3\n⁄4of a mile into the sky.\n• Finally, imagine piling up $32 billion, the total of Berkshire’s 2012-21 federal income tax\npayments. Now the stack grows to more than 21 miles in height, about three times the level\nat which commercial airplanes usually cruise.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "43981a9f-7c62-4609-a15a-8de3573e3c47",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "at which commercial airplanes usually cruise.\nWhen it comes to federal taxes, individuals who own Berkshire can unequivocally state “I\ngave at the office.”\n************\nAt Berkshire we hopeand expectto pay much more in taxes during the next decade. We\nowe the country no less: America’s dynamism has made a huge contribution to whatever success\nBerkshire has achieved – a contribution Berkshire will always need. Wecounton the American",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5b261019-f1b1-49f8-8250-206ffde97785",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Tailwind and, though it has been becalmed from time to time, its propelling force has always\nreturned.\nI have been investing for 80 years – more than one-third of our country’s lifetime. Despite\nour citizens’ penchant – almost enthusiasm – for self-criticism and self-doubt, I have yet to see a\ntime when it made sense to make a long-term bet against America. And I doubt very much that\nany reader of this letter will have a different experience in the future.\nNothing Beats Having a Great Partner",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c0d0f86c-783a-461b-b058-8f5770b37fee",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Nothing Beats Having a Great Partner\nCharlie and I think pretty much alike. But what it takes me a page to explain, he sums up\nin a sentence. His version, moreover, is always more clearly reasoned and also more\nartfully – some might add bluntly – stated.\nHere are a few of his thoughts, many lifted from a very recent podcast:\n• The world is full of foolish gamblers, and they will not do as well as the patient investor.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1608bef8-a53b-4337-bfbd-d19ca128f5de",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "• If you don’t see the world the way it is, it’s like judging something through a distorted lens.\n• All I want to know is where I’m going to die, so I’ll never go there. And a related thought:\nEarly on, write your desired obituary – and then behave accordingly.\n• If you don’t care whether you are rational or not, you won’t work on it. Then you will stay\nirrational and get lousy results.\n9",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a2550661-edea-4242-84b7-77fcd1d0be55",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "• Patience can be learned. Having a long attention span and the ability to concentrate on one\nthing for a long time is a huge advantage.\n• You can learn a lot from dead people. Read of the deceased you admire and detest.\n• Don’t bail away in a sinking boat if you can swim to one that is seaworthy.\n• A great company keeps working after you are not; a mediocre company won’t do that.\n• Warren and I don’t focus on the froth of the market. We seek out good long-term",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8cad3944-5747-4578-a76c-5c606efbe2ea",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "investments and stubbornly hold them for a long time.\n• Ben Graham said, “Day to day, the stock market is a voting machine; in the long term it’s\na weighing machine.” If you keep making something more valuable, then some wise person\nis going to notice it and start buying.\n• There is no such thing as a 100% sure thing when investing. Thus, the use of leverage is\ndangerous. A string of wonderful numbers times zero will always equal zero. Don’t count\non getting rich twice.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d8f70088-b132-474a-8550-e101166bb1ff",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "on getting rich twice.\n• You don’t, however, need to own a lot of things in order to get rich.\n• You have to keep learning if you want to become a great investor. When the world changes,\nyoumust change.\n• Warren and I hated railroad stocks for decades, but the world changed and finally the\ncountry had four huge railroads of vital importance to the American economy. We were\nslow to recognize the change, but better late than never.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b843a493-9ae0-4757-a849-df846f0625e0",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "• Finally,Iwill add two short sentences by Charlie that have been his decision-clinchers for\ndecades: “Warren, think more about it. You’re smart and I’m right.”\nAnd so it goes. I never have a phone call with Charlie without learning something. And,\nwhile he makes me think, he also makes me laugh.\n************\nI  will  add  to  Charlie’s  list  a  rule  of  my  own:  Find  a  very  smart  high-grade\npartner – preferably slightly older than you – and then listenverycarefully to what he says.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "da24eddc-5c4d-4850-ac6d-9be8c6d2a57c",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "A Family Gathering in Omaha\nCharlie and I are shameless. Last year, at our first shareholder get-together in three years,\nwe greeted you with our usual commercial hustle.\nFrom the opening bell, we went straight for your wallet. In short order, our See’s kiosk\nsold youeleven tonsof nourishing peanut brittle and chocolates. In our P.T. Barnum pitch, we\npromised you longevity. After all, what else but candy from See’s could account for Charlie and\nme making it to 99 and 92?",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c3165bcd-96d8-48d3-bbd4-e50def95dddc",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "me making it to 99 and 92?\nI know you can’t wait to hear the specifics of last year’s hustle.\nOn Friday, the doors were open from noon until 5 p.m., and our candy counters rang up\n2,690 individual sales. On Saturday, See’s registered an additional 3,931 transactions between\n7 a.m. and 4:30 p.m., despite the fact that 6\n1\n⁄2of the 9\n1\n⁄2operating hours occurred while our movie\nand the question-and-answer session were limiting commercial traffic.\n10",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "4992b87e-4a2a-4458-b3bd-25838c73a707",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "Do the math: See’s rang up about 10 sales per minute during its prime operating time\n(racking up $400,309 of volume during the two days), with all the goods purchased at a single\nlocation selling products that haven’t been materially altered in 101 years. What worked for See’s\nin the days of Henry Ford’s model T works now.\n************\nCharlie, I, and the entire Berkshire bunch look forward to seeing you in Omaha on\nMay 5-6. We will have a good time and so will you.\nFebruary 25, 2023Warren E. Buffett",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e856b25a-d760-42e4-a7a3-f559504bf35f",
+    "metadata": {
+      "source": "2022.txt",
+      "year": "2022"
+    },
+    "relationships": {},
+    "text": "February 25, 2023Warren E. Buffett\nChairman of the Board\n11",
+    "metadataSeparator": "\n"
+  }
+]

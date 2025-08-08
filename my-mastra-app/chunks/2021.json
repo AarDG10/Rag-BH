@@ -1,0 +1,832 @@
+[
+  {
+    "id_": "b68d8e63-f2f0-4527-87f4-2806a3ded914",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Berkshire’s Performance vs. the S&P 500\nAnnual Percentage Change\nYear\nin Per-Share\nMarket Value of\nBerkshire\nin S&P 500\nwith Dividends\nIncluded\n1965.........................................................................49.510.0\n1966.........................................................................(3.4)(11.7)\n1967.........................................................................13.330.9\n1968.........................................................................77.811.0",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "80bd7057-2807-4624-93ba-0096e8de583d",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "1969.........................................................................19.4(8.4)\n1970.........................................................................(4.6)3.9\n1971.........................................................................80.514.6\n1972.........................................................................8.118.9\n1973.........................................................................(2.5)(14.8)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0cbe0167-d4ba-48ff-bff4-cb2f1f836d72",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "1974.........................................................................(48.7)(26.4)\n1975.........................................................................2.537.2\n1976.........................................................................129.323.6\n1977.........................................................................46.8(7.4)\n1978.........................................................................14.56.4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e42eb2d4-050f-42e3-ac0c-b1a3d47d88fb",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "1979.........................................................................102.518.2\n1980.........................................................................32.832.3\n1981.........................................................................31.8(5.0)\n1982.........................................................................38.421.4\n1983.........................................................................69.022.4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "6265eb84-d870-49d9-ba69-71ceaa4b7324",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "1984.........................................................................(2.7)6.1\n1985.........................................................................93.731.6\n1986.........................................................................14.218.6\n1987.........................................................................4.65.1\n1988.........................................................................59.316.6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "196f5946-cd4f-4ee1-a3a5-67d5781bf779",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "1989.........................................................................84.631.7\n1990.........................................................................(23.1)(3.1)\n1991.........................................................................35.630.5\n1992.........................................................................29.87.6\n1993.........................................................................38.910.1",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "279aec9d-c7df-42ac-9a43-782402072c8e",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "1994.........................................................................25.01.3\n1995.........................................................................57.437.6\n1996.........................................................................6.223.0\n1997.........................................................................34.933.4\n1998.........................................................................52.228.6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1a0d6f3d-437b-4a08-8c82-0fbc4f7c0268",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "1999.........................................................................(19.9)21.0\n2000.........................................................................26.6(9.1)\n2001.........................................................................6.5(11.9)\n2002.........................................................................(3.8)(22.1)\n2003.........................................................................15.828.7",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5ffb5d2c-7a7c-4fe9-a134-3749efb1bcbd",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "2004.........................................................................4.310.9\n2005.........................................................................0.84.9\n2006.........................................................................24.115.8\n2007.........................................................................28.75.5\n2008.........................................................................(31.8)(37.0)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "646716ed-d1dd-45d1-82ef-57511f3e8470",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "2009.........................................................................2.726.5\n2010.........................................................................21.415.1\n2011.........................................................................(4.7)2.1\n2012.........................................................................16.816.0\n2013.........................................................................32.732.4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "41abe553-9b2c-457c-a008-27753d6ec5f0",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "2014.........................................................................27.013.7\n2015.........................................................................(12.5)1.4\n2016.........................................................................23.412.0\n2017.........................................................................21.921.8\n2018.........................................................................2.8(4.4)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "4872b4c2-1768-40a8-81e3-d17760d05bfe",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "2019.........................................................................11.031.5\n2020.........................................................................2.418.4\n2021.........................................................................29.628.7\nCompounded Annual Gain – 1965-2021............................................20.1%10.5%\nOverall Gain – 1964-2021........................................................\n3,641,613%30,209%",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "947aa0f7-9262-423c-9acd-946987eca993",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "3,641,613%30,209%\nNote:Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.\n2",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e7324111-abd4-4795-a4ed-7989751161b8",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "BERKSHIRE HATHAWAY INC.\nTo the Shareholders of Berkshire Hathaway Inc.:\nCharlie Munger, my long-time partner, and I have the job of managing a portion of your savings. We are\nhonored by your trust.\nOur position carries with it the responsibility to report to you what we would like to know ifwewere the\nabsentee owner andyouwere the manager. We enjoy communicating directly with you through this annual letter, and\nthrough the annual meeting as well.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b8cb91e7-e045-47c3-ae07-3db30a257c1f",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "through the annual meeting as well.\nOur policy is to treat all shareholders equally. Therefore, we do not hold discussions with analysts nor large\ninstitutions. Whenever possible, also, we release important communications on Saturday mornings in order to\nmaximize the time for shareholders and the media to absorb the news before markets open on Monday.\nA wealth of Berkshire facts and figures are set forth in the annual 10-K that the company regularly files with",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0ac356ef-5f63-4cc9-b49b-6749d865543a",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "the S.E.C. and that we reproduce on pages K-1 – K-119. Some shareholders will find this detail engrossing; others\nwill simply prefer to learn what Charlie and I believe is new or interesting at Berkshire.\nAlas, there was little action of that sort in 2021. We did, though, make reasonable progress in increasing the\nintrinsic value of your shares. That task has been my primary duty for 57 years. And it will continue to be.\nWhat You Own",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "efaea813-6078-475f-9334-55e58ad6614e",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "What You Own\nBerkshire owns a wide variety of businesses, some in their entirety, some only in part. The second group\nlargely consists of marketable common stocks of major American companies. Additionally, we own a few non-U.S.\nequities and participate in several joint ventures or other collaborative activities.\nWhatever our form of ownership, our goal is to have meaningful investments inbusinesseswith both durable",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "48e443b8-dd9d-4513-ac60-2f53c3e01997",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "economic advantages and a first-class CEO. Please note particularly that we own stocks based upon our expectations\nabout their long-termbusinessperformance andnotbecause we view them as vehicles for timely market moves. That\npoint is crucial: Charlie and I arenotstock-pickers; we are business-pickers.\nI make many mistakes. Consequently, our extensive collection of businesses includes some enterprises that",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "241bab4a-d6c1-41b4-847b-fd14e4d0820a",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "have truly extraordinary economics, many others that enjoy good economic characteristics, and a few that are\nmarginal. One advantage of our common-stock segment is that – on occasion – it becomes easy to buypiecesof\nwonderful businesses at wonderful prices. That shooting-fish-in-a-barrel experience isveryrare in negotiated\ntransactions and never occursen masse. It is also far easier to exit from a mistake when it has been made in the\nmarketable arena.\n3",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0b460701-229c-4abf-94c9-09d31a09e693",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Surprise, Surprise\nHere are a few items about your company that often surprise even seasoned investors:\n•Many people perceive Berkshire as a large and somewhat strange collection offinancialassets. In truth,\nBerkshire owns andoperatesmore U.S.-based “infrastructure” assets – classified on our balance sheet as\nproperty, plant and equipment – than are owned and operated byanyother American corporation. That\nsupremacy has never been our goal. It has, however, become a fact.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "bda520bb-2ac2-4897-8ead-c544c3d26359",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "At yearend, those domestic infrastructure assets were carried on Berkshire’s balance sheet at $158 billion.\nThat number increased last year and will continue to increase. Berkshirealwayswill be building.\n•Every year, your company makes substantial federal income tax payments. In 2021, for example, we paid\n$3.3 billion while the U.S. Treasury reportedtotalcorporate income-tax receipts of $402 billion.\nAdditionally, Berkshire pays substantial state and foreign taxes. “I gave at the office” is an unassailable",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "fa27278b-b435-47f7-8b60-377926277a8b",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "assertion when made by Berkshire shareholders.\nBerkshire’s history vividly illustrates the invisible and often unrecognized financial partnership between\ngovernment and American businesses. Our tale begins early in 1955, when Berkshire Fine Spinning and\nHathaway Manufacturing agreed to merge their businesses. In their requests for shareholder approval, these\nvenerable New England textile companies expressed high hopes for the combination.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9dc5f81b-9658-4c8f-93a0-af95d1f4833a",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "The Hathaway solicitation, for example, assured its shareholders that “The combination of the resources and\nmanagements will result in one of the strongest and most efficient organizations in the textile industry.” That\nupbeat view was endorsed by the company’s advisor, Lehman Brothers (yes,thatLehman Brothers).\nI’m sure it was a joyous day in both Fall River (Berkshire) and New Bedford (Hathaway) when the union",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "34092a49-af36-41a3-af0b-8d439ad419ed",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "was consummated. After the bands stopped playing and the bankers went home, however, the shareholders\nreaped a disaster.\nIn the nine years following the merger, Berkshire’s owners watched the company’s net worth crater from\n$51.4 million to $22.1 million. In part, this decline was caused by stock repurchases, ill-advised dividends\nand plant shutdowns. But nine years of effort by many thousands of employees delivered an operating loss",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "2d67929a-26b9-4cd7-9319-98ac799f3445",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "as well. Berkshire’s struggles were not unusual: The New England textile industry had silently entered an\nextended and non-reversible death march.\nDuring the nine post-merger years, the U.S. Treasury suffered as well from Berkshire’s troubles. All told, the\ncompany paid the government only $337,359 in income tax during that period – a pathetic$100 per day.\nEarly in 1965, things changed. Berkshire installed new management that redeployed available cash and",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b7121739-ad2f-4f90-b147-5567cf3122eb",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "steered essentiallyallearnings into a variety of good businesses, most of which remained good through the\nyears. Coupling reinvestment of earnings with the power of compounding worked its magic, and shareholders\nprospered.\nBerkshire’s owners, it should be noted, were not the only beneficiary of that course correction. Their “silent\npartner,” the U.S. Treasury, proceeded to collect manytens of billionsof dollars from the company in income",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "495f11f0-d71a-463f-b1db-cc38f6d4948c",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "tax payments. Remember the $100 daily? Now, Berkshire pays roughly $9milliondaily to the Treasury.\n4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ab30e108-42ba-420e-997c-cbfe878374a0",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "In fairness to our governmental partner, our shareholders should acknowledge – indeed trumpet – the fact\nthat Berkshire’s prosperity has been fosteredmightilybecause the company has operated in America. Our\ncountry would have done splendidly in the years since 1965withoutBerkshire. Absent our American home,\nhowever, Berkshire would never have come close to becoming what it is today. When you see the flag, say\nthanks.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "981eb719-539f-4c3c-b247-784fd74bd6eb",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "thanks.\n•From an $8.6 million purchase of National Indemnity in 1967, Berkshire has become the world leader in\ninsurance “float” – money we hold and can invest but that doesnotbelong to us. Including a relatively small\nsum derived from life insurance, Berkshire’s total float has grown from $19millionwhen we entered the\ninsurance business to $147billion.\nSo far, this float has cost us less than nothing. Though we have experienced a number of years when insurance",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b30d656f-bb43-473d-b559-5ebc5d6f21eb",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "losses combined with operating expenses exceeded premiums,overallwe have earned a modest 55-year\nprofit from the underwriting activities that generated our float.\nOf equal importance, float is very sticky. Funds attributable to our insurance operations come and go daily,\nbut their aggregate total is immune from precipitous decline. When it comes to investing float, we can\ntherefore think long-term.\nIf you are not already familiar with the concept of float, I refer you to a long explanation on page A-5. To",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5bd4751d-0d3c-4b6b-8251-815ea018f566",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "my surprise, our float increased $9 billion last year, a buildup of value that is important to Berkshire owners\nthough isnotreflected in our GAAP (“generally-accepted accounting principles”) presentation of earnings\nand net worth.\nMuch of our huge value creation in insurance is attributable to Berkshire’s good luck in my 1986 hiring of\nAjit Jain. We first met on a Saturday morning, and I quickly asked Ajit what his insurance experience had\nbeen. He replied, “None.”",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "255cac84-67f7-4de8-8b2e-6380592266d9",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "been. He replied, “None.”\nI said, “Nobody’s perfect,” and hired him. That was my lucky day: Ajit actuallywasas perfect a choice as\ncould have been made. Better yet, he continues to be – 35 years later.\nOne final thought about insurance: I believe that it is likely – butfarfrom assured – that Berkshire’s float\ncan be maintained without our incurring a long-term underwriting loss. I amcertain, however, that there will\nbe some years when we experience such losses, perhaps involving very large sums.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "49c43e18-9531-4c7b-a490-a9ee52ab01f1",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Berkshire is constructed to handle catastrophic events as no other insurer – and that priority will remain long\nafter Charlie and I are gone.\nOur Four Giants\nThrough Berkshire, our shareholders own many dozens of businesses. Some of these, in turn, have a\ncollection of subsidiaries of their own. For example, Marmon has more than 100 individual business operations,\nranging from the leasing of railroad cars to the manufacture of medical devices.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "4c7055de-ef37-401d-aa71-ce0a841c776e",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "•Nevertheless, operations of our “Big Four” companies account for a very large chunk of Berkshire’s value.\nLeading this list is our cluster of insurers. Berkshire effectively owns 100% of this group, whose massive\nfloat value we earlier described. The invested assets of these insurers are further enlarged by the extraordinary\namount of capital we invest to back up their promises.\n5",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "dd566ff5-2f56-47dd-9839-ae256ea533a7",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "The insurance business is made to order for Berkshire. The product will never be obsolete, and sales volume\nwill generally increase along with both economic growth and inflation. Also, integrity and capital will forever\nbe important. Our company can andwillbehave well.\nThere are, of course, other insurers with excellent business models and prospects. Replication of Berkshire’s\noperation, however, would be almost impossible.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3eb3063d-ed91-4d5e-bd67-9ba00118c84d",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "operation, however, would be almost impossible.\n•Apple – our runner-up Giant as measured by its yearend market value – is a different sort of holding. Here,\nour ownership is a mere 5.55%, up from 5.39% a year earlier. That increase sounds like small potatoes. But\nconsider that each0.1%of Apple’s 2021 earnings amounted to$100 million. We spentnoBerkshire funds\nto gain our accretion. Apple’s repurchases did the job.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0dadbc92-978d-4ddd-81eb-defba7346eee",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "It’s important to understand that onlydividendsfrom Apple are counted in the GAAP earnings Berkshire\nreports – and last year, Apple paid us $785 million of those. Yet our “share” of Apple’s earnings amounted\nto a staggering $5.6billion. Much of what the company retained was used to repurchase Apple shares, an act\nwe applaud. Tim Cook, Apple’s brilliant CEO, quite properly regards users of Apple products as his first\nlove, but all of his other constituencies benefit from Tim’s managerial touch as well.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "aaa3273d-f4ad-47a8-aa1b-eae1f02ecedd",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "•BNSF, our third Giant, continues to be the number one artery of American commerce, which makes it an\nindispensable asset for America as well as for Berkshire. If the many essential products BNSF carries were\ninstead hauled by truck, America’s carbon emissions would soar.\nYour railroad had record earnings of $6 billion in 2021. Here, it should be noted, we are talking about the\nold-fashioned sort of earnings that we favor: a figure calculatedafterinterest, taxes, depreciation,",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b8ea6fbf-e0d4-4214-8aae-f6a8d5610a0c",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "amortization and all forms of compensation. (Our definition suggests a warning: Deceptive “adjustments” to\nearnings – to use a polite description – have become both more frequent and more fanciful as stocks have\nrisen. Speaking less politely, I would say that bull markets breed bloviated bull . . ..)\nBNSF trains traveled 143 million miles last year and carried 535 million tons of cargo. Both accomplishments\nfar exceed those of any other American carrier. You can be proud of your railroad.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "eb66f8ab-bf1d-4716-b72b-be8508107f4a",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "•BHE, our final Giant, earned a record $4 billion in 2021. That’s up more than 30-fold from the$122 million\nearned in 2000, the year that Berkshire first purchased a BHE stake. Now, Berkshire owns 91.1% of the\ncompany.\nBHE’s record of societal accomplishment is as remarkable as its financial performance. The company had\nnowind or solar generation in 2000. It was then regarded simply as a relatively new and minor participant in",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "80c99374-f46d-4f5c-a7ba-2a1b3e0e7987",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "the huge electric utility industry. Subsequently, under David Sokol’s and Greg Abel’s leadership, BHE has\nbecome a utility powerhouse (no groaning, please) and a leading force in wind, solar and transmission\nthroughout much of the United States.\nGreg’s report on these accomplishments appears on pages A-3 and A-4. The profile you will find there is not\nin any way one of those currently-fashionable “green-washing” stories. BHE has been faithfully detailing its",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9db5ba24-2b9a-4c5f-b8e9-bb1b18d57ba2",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "plans and performance in renewables and transmissions every year since2007.\nTo further review this information, visit BHE’s website at brkenergy.com. There, you will see that the\ncompany haslongbeen making climate-conscious moves that soak upallof its earnings. More opportunities\nlie ahead. BHE has the management, the experience, the capital and the appetite for the huge power projects\nthat our country needs.\n6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "fda9e44c-8ab1-4c9b-847b-88d4bbd527c7",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Investments\nNow let’s talk about companies wedon’tcontrol, a list that again references Apple. Below we list our fifteen\nlargest equity holdings, several of which are selections of Berkshire’s two long-time investment managers, Todd\nCombs and Ted Weschler. At yearend, this valued pair hadtotalauthority in respect to $34 billion of investments,\nmany of which do not meet the threshold value we use in the table. Also, a significant portion of the dollars that Todd",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a980661f-9e04-440a-b97a-b49aa5801c7b",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "and Ted manage are lodged in various pension plans of Berkshire-owned businesses, with the assets of these plansnot\nincluded in this table.\n12/31/21\nSharesCompany\nPercentage of\nCompany\nOwnedCost*Market\n(in millions)\n151,610,700  American Express Company....................19.91,28724,804\n907,559,761  Apple Inc...................................5.631,089161,155\n1,032,852,006  Bank of America Corp.........................12.814,63145,952\n66,835,615  The Bank of New York Mellon Corp.............8.32,9183,882",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "34ede976-8127-4adb-a283-4d4b12ea26e1",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "225,000,000  BYD Co. Ltd.**..............................7.72327,693\n3,828,941  Charter Communications, Inc...................2.26432,496\n38,245,036  Chevron Corporation..........................2.03,4204,488\n400,000,000  The Coca-Cola Company......................9.21,29923,684\n52,975,000  General Motors Company......................3.61,6163,106\n89,241,000  ITOCHU Corporation.........................5.62,0992,728\n81,714,800  Mitsubishi Corporation........................5.52,1022,593",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "71c642bb-97a8-42fa-9aff-2a1183a0b36c",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "93,776,200  Mitsui & Co., Ltd.............................5.71,6212,219\n24,669,778  Moody’s Corporation.........................13.32489,636\n143,456,055  U.S. Bancorp................................9.75,3848,058\n158,824,575  Verizon Communications Inc...................3.89,3878,253\nOthers***..................................26,62939,972\nTotal Equity Investments Carried at Market........$104,605   $ 350,719\n*This is our actual purchase price and also our tax basis.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "4bafec3c-8dab-40c8-a578-abcab7c1f16b",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "**Held by BHE; consequently, Berkshire shareholders have only a 91.1% interest in this position.\n***Includes a $10 billion investment in Occidental Petroleum, consisting of preferred stock and warrants to\nbuy common stock, a combination now being valued at $10.7 billion.\nIn addition to the footnoted Occidental holding and our various common-stock positions, Berkshire also owns\na 26.6% interest in Kraft Heinz (accounted for on the “equity” method,notmarket value, and carried at $13.1 billion)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1f4dde86-0b8a-4839-a673-ff701c0b66af",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "and 38.6% of Pilot Corp., a leader in travel centers that had revenues last year of $45 billion.\nSince we purchased our Pilot stake in 2017, this holding has warranted “equity” accounting treatment. Early\nin 2023, Berkshire will purchase an additional interest in Pilot that will raise our ownership to 80% and lead to our\nfully consolidating Pilot’s earnings, assets and liabilities in our financial statements.\n7",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a2bf9b99-9d96-4b15-b883-0377d7451c44",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "U.S. Treasury Bills\nBerkshire’s balance sheet includes $144 billion of cash and cash equivalents (excluding the holdings of\nBNSF and BHE). Of this sum, $120 billion is held in U.S. Treasury bills, all maturing in less than a year. That stake\nleaves Berkshire financing about\n1\n⁄2of 1% of the publicly-held national debt.\nCharlie and I have pledged that Berkshire (along with our subsidiaries other than BNSF and BHE) will always",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c3a83e93-9c95-4aac-8933-f8c4ee4a7a4e",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "hold more than $30 billion of cash and equivalents. We want your company to be financially impregnable andnever\ndependent on the kindness of strangers (or even that of friends). Both of us like to sleep soundly, and we want our\ncreditors, insurance claimants andyouto do so as well.\nBut $144 billion?\nThat imposing sum, I assure you, is not some deranged expression of patriotism. Nor have Charlie and I lost",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "de63cdbe-3761-49c2-afbd-0faf822e20c7",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "our overwhelming preference forbusinessownership. Indeed, I first manifested my enthusiasm for that 80 years ago,\non March 11, 1942, when I purchased three shares of Cities Services preferred stock. Their cost was $114.75 and\nrequiredallof my savings. (The Dow Jones Industrial Average that day closed at 99, a fact that should scream to you:\nNeverbet against America.)\nAfter my initial plunge, I always kept at least 80% of my net worth in equities. Myfavoredstatus throughout",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c3c2981a-067e-414b-8f97-0d189e9e710e",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "that period was 100% – and still is. Berkshire’s current 80%-or-so position in businesses is a consequence of my\nfailure to find entire companies or small portions thereof (that is, marketable stocks) which meet our criteria for long-\nterm holding.\nCharlie and I have endured similar cash-heavy positions from time to time in the past. These periods are\nnever pleasant; they are also never permanent. And, fortunately, we have had a mildly attractive alternative during",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8911072d-c0a3-4180-aebb-eec5d2ba8a04",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "2020 and 2021 for deploying capital. Read on.\nShare Repurchases\nThere are three ways that we can increase the value of your investment. The first isalwaysfront and center\nin our minds: Increase the long-term earning power of Berkshire’s controlled businesses through internal growth or\nby making acquisitions. Today, internal opportunities deliver far better returns than acquisitions. The size of those\nopportunities, however, is small compared to Berkshire’s resources.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3d83245c-c487-4c49-b0b3-a814e03a1d60",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Our second choice is to buy non-controlling part-interests in the many good or great businesses that are\npublicly traded. From time to time, such possibilities are both numerous and blatantly attractive. Today, though, we\nfind little that excites us.\nThat’s largely because of a truism: Long-term interest rates that are low push the prices ofallproductive\ninvestments upward, whether these are stocks, apartments, farms, oil wells, whatever. Other factors influence",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c7f94ae6-78b9-4554-98b4-1e671e71af7c",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "valuations as well, but interest rates will always be important.\nOur final path to value creation is to repurchase Berkshire shares. Through that simple act, we increaseyour\nshare of the many controlledandnon-controlled businesses Berkshire owns. When the price/value equation is right,\nthis path is the easiest and most certain way for us to increase your wealth. (Alongside the accretion of value to",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "dd19b05e-b069-4547-8c80-4ab3d81f66d5",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "continuing shareholders, a couple of other parties gain: Repurchases are modestly beneficial to the seller of the\nrepurchased shares and to society as well.)\n8",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c021a103-179c-4ce1-a8cb-64f85c92d581",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Periodically, as alternative paths become unattractive, repurchases make good sense for Berkshire’s owners.\nDuring the past two years, we therefore repurchased9%of the shares that were outstanding at yearend 2019 for a total\ncost of $51.7 billion. That expenditure left our continuing shareholders owning about10%more ofallBerkshire\nbusinesses, whether these are wholly-owned (such as BNSF and GEICO) or partly-owned (such as Coca-Cola and\nMoody’s).",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "24eb6e9f-4af7-4c5b-b104-8b4d0d2843fa",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Moody’s).\nI want to underscore that for Berkshire repurchases to make sense, our sharesmustoffer appropriate value.\nWe don’t want to overpay for the shares of other companies, and it would bevalue-destroyingif we were to overpay\nwhen we are buying Berkshire. As of February 23, 2022, since yearend we repurchased additional shares at a cost of\n$1.2 billion. Our appetite remains large but will always remain price-dependent.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a927c526-2baa-4d7f-937f-6580486c5915",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "It should be noted that Berkshire’s buyback opportunities are limitedbecauseof its high-class investor base.\nIf our shares were heavily held by short-term speculators, both price volatility and transaction volumes would\nmaterially increase. That kind of reshaping would offer us far greater opportunities for creating value by making\nrepurchases. Nevertheless, Charlie and I far prefer the owners we have, even though their admirable buy-and-keep",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "682a08bc-b6ca-48a2-b7d7-f618cdd01ca4",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "attitudes limit the extent to which long-term shareholders can profit from opportunistic repurchases.\nFinally, one easily-overlooked value calculation specific to Berkshire: As we’ve discussed, insurance “float”\nof the right sort is of great value to us. As it happens, repurchases automatically increase the amount of “float”per\nshare. That figure has increased during the past two years by 25% – going from $79,387 per “A” share to $99,497, a\nmeaningful gain that, as noted, owes some thanks to repurchases.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d5192be0-198c-47fe-9aa3-47c2bc748b0f",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "A Wonderful Man and a Wonderful Business\nLast year, Paul Andrews died. Paul was the founder and CEO of TTI, a Fort Worth-based subsidiary of\nBerkshire. Throughout his life – in both his businessandhis personal pursuits – Paul quietly displayed all the qualities\nthat Charlie and I admire. His story should be told.\nIn 1971, Paul was working as a purchasing agent for General Dynamics when the roof fell in. After losing a\nhuge defense contract, the company fired thousands of employees, including Paul.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "fc70cc68-7eea-437c-a491-9dfc5490ce6f",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "With his first child due soon, Paul decided to bet on himself, using $500 of his savings to found Tex-Tronics\n(later renamed TTI). The company set itself up to distribute small electronic components, and first-year sales totaled\n$112,000. Today, TTI markets more than one million different items with annual volume of $7.7 billion.\nBut back to 2006: Paul, at 63, then found himself happy with his family, his job, and his associates. But he",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c2f3fe4d-7f21-4d32-97ac-9ad1a51af36d",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "had one nagging worry, heightened because he had recently witnessed a friend’s early death and the disastrous results\nthat followed for that man’s family and business. What, Paul asked himself in 2006, would happen to the many people\ndepending onhimif he should unexpectedly die?\nFor a year, Paul wrestled with his options. Sell to a competitor? From a strictly economic viewpoint, that\ncourse made the most sense. After all, competitors could envision lucrative “synergies” – savings that would be",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "10649490-a829-4b4a-84ab-ea9b385579fb",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "achieved as the acquiror slashed duplicated functions at TTI.\nBut...Suchapurchaser would most certainly also retainitsCFO,itslegal counsel,itsHR unit. Their TTI\ncounterparts would therefore be sent packing. And ugh! If a new distribution center were to be needed, the acquirer’s\nhome city would certainly be favored over Fort Worth.\n9",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "78cc02d5-d668-497f-8aaa-713705189940",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Whatever the financial benefits, Paul quickly concluded that selling to a competitor was not for him. He next\nconsidered seeking a financial buyer, a species once labeled – aptly so – a leveraged buyout firm. Paul knew, however,\nthat such a purchaser would be focused on an “exit strategy.” And who could know what that would be? Brooding\nover it all, Paul found himself having no interest in handing his 35-year-old creation over to a reseller.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "2ef70ee2-5d7e-4926-8f5a-4e4e8dc6acdb",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "When Paul met me, he explained why he had eliminated these two alternatives as buyers. He then summed\nup his dilemma by saying – in far more tactful phrasing than this – “After a year of pondering the alternatives, I want\nto sell to Berkshire because you are the only guy left.” So, I made an offer and Paul said “Yes.” One meeting; one\nlunch; one deal.\nTo say we both lived happily ever after is an understatement. When Berkshire purchased TTI, the company",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a9f6686f-8ce8-47db-b7c9-dd444b25efd4",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "employed 2,387. Now the number is 8,043. A large percentage of that growth took place in Fort Worth and environs.\nEarnings have increased 673%.\nAnnually, I would call Paul and tell him his salary should be substantially increased. Annually, he would tell\nme, “We can talk about that next year, Warren; I’m too busy now.”\nWhen Greg Abel and I attended Paul’s memorial service, we met children, grandchildren, long-time",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ea66886c-14af-4fff-b541-cc5e0285578c",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "associates (including TTI’s first employee) and John Roach, the former CEO of a Fort Worth company Berkshire had\npurchased in 2000. John had steered his friend Paul to Omaha, instinctively knowing we would be a match.\nAt the service, Greg and I heard about the multitudes of people and organizations that Paul had silently\nsupported. The breadth of his generosity was extraordinary – geared always to improving the lives of others,\nparticularly those in Fort Worth.\nIn all ways, Paul was a class act.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1dd342de-c03a-4bd6-94a4-a8903ceacd18",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "In all ways, Paul was a class act.\n************\nGood luck – occasionallyextraordinaryluck – has played its part at Berkshire. If Paul and I had not enjoyed\na mutual friend – John Roach – TTI would not have found its home with us. But that ample serving of luck was only\nthe beginning. TTI was soon to lead Berkshire to its most important acquisition.\nEvery fall, Berkshire directors gather for a presentation by a few of our executives. We sometimes choose",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "019a4730-6496-49f3-8e23-5d95119f332b",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "the site based upon the location of a recent acquisition, by that means allowing directors to meet the new subsidiary’s\nCEO and learn more about the acquiree’s activities.\nIn the fall of 2009, we consequently selected Fort Worth so that we could visit TTI. At that time, BNSF,\nwhich also had Fort Worth as its hometown, was the third-largest holding among our marketable equities. Despite that\nlarge stake, I had never visited the railroad’s headquarters.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1517d923-e912-4ecd-bf7f-ff39d5f73231",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Deb Bosanek, my assistant, scheduled our board’s opening dinner for October 22. Meanwhile, I arranged to\narrive earlier that day to meet with Matt Rose, CEO of BNSF, whose accomplishments I had long admired. When I\nmade the date, I had no idea that our get-together would coincide with BNSF’s third-quarter earnings report, which\nwas released late on the 22\nnd\n.\nThe market reacted badly to the railroad’s results. The Great Recession was in full force in the third quarter,",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b9287b62-4cf1-4b9d-91ed-5bf2aef9c8a3",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "and BNSF’s earnings reflected that slump. The economic outlook was also bleak, and Wall Street wasn’t feeling\nfriendly to railroads – or much else.\n10",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "03475042-f744-422a-a946-b90580142f39",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "On the following day, I again got together with Matt and suggested that Berkshire would offer the railroad a\nbetter long-term home than it could expect as a public company. I also told him the maximum price that Berkshire\nwould pay.\nMatt relayed the offer to his directors and advisors. Eleven busy days later, Berkshire and BNSF announced\na firm deal. And here I’ll venture a rare prediction: BNSF will be a key asset for Berkshireandour country a century\nfrom now.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "805a0b99-082b-4efc-99e3-984c6495eb97",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "from now.\nThe BNSF acquisition would never have happened if Paul Andrews hadn’t sized up Berkshire as the right\nhome for TTI.\nThanks\nI taught my first investing class 70 years ago. Since then, I have enjoyed working almost every year with\nstudents of all ages, finally “retiring” from that pursuit in 2018.\nAlong the way, my toughest audience was my grandson’s fifth-grade class. The 11-year-olds were squirming",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "62902b3a-8f5f-4a52-8195-ef7cfda3445d",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "in their seats and giving me blank stares until I mentioned Coca-Cola and its famous secret formula. Instantly, every\nhand went up, and I learned that “secrets” are catnip to kids.\nTeaching, like writing, has helped me develop and clarify my own thoughts. Charlie calls this phenomenon\nthe orangutan effect: If you sit down with an orangutan and carefully explain to it one of your cherished ideas, you\nmay leave behind a puzzled primate, but will yourself exit thinking more clearly.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "2bd05f97-8dec-4685-ad61-fc69528933fe",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Talking to university students is far superior. I have urged that they seek employment in (1) the field and (2)\nwith the kind of people they would select, if they hadno needfor money. Economic realities, I acknowledge, may\ninterfere with that kind of search. Even so, I urge the students never to give up the quest, for when they find that sort\nof job, they will no longer be “working.”\nCharlie and I, ourselves, followed that liberating course after a few early stumbles. We both started as part-",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3dadd82f-3917-4a3f-af53-35f0e2be75e4",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "timers at my grandfather’s grocery store, Charlie in 1940 and I in 1942. We were each assigned boring tasks and paid\nlittle, definitely not what we had in mind. Charlie later took up law, and I tried selling securities. Job satisfaction\ncontinued to elude us.\nFinally, at Berkshire, we found what we love to do. With very few exceptions, we have now “worked” for\nmany decades with people whom we like and trust. It’s a joy in life to join with managers such as Paul Andrews or",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "357b2c55-cbc6-4061-9181-b875c6aac459",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "the Berkshire families I told you about last year. In our home office, we employ decent and talented people – no jerks.\nTurnover averages, perhaps, one person per year.\nIwouldlike,however,toemphasizeafurtheritemthatturnsourjobsintofunandsatisfaction----working\nfor you. There is nothing more rewarding to Charlie and me than enjoying the trust ofindividuallong-term\nshareholders who, for many decades, have joined us with the expectation that we would be a reliable custodian of their\nfunds.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "813d2107-55f0-4ea8-989f-a017b4123eae",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "funds.\nObviously, we can’t select our owners, as we could do if ourformof operation were a partnership. Anyone\ncan buy shares of Berkshire today with the intention of soon reselling them. For sure, we get a few of that type of\nshareholder, just as we get index funds that own huge amounts of Berkshire simply because they are required to do\nso.\n11",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "38f6cf9e-e996-47a0-bbff-79d166fad625",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "To a truly unusual degree, however, Berkshire has as owners a very large corps of individuals and families\nthat have elected to join us with an intent approaching “til death do us part.” Often, they have trusted us with a large\n– some might sayexcessive– portion of their savings.\nBerkshire, these shareholders would sometimes acknowledge, might be far from thebestselection they could\nhave made. But they would add that Berkshire would rank high among those with which they would be most",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e0fb6481-c94a-4b2e-96fc-6da9c2f48625",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "comfortable. And people who are comfortable with their investments will, on average, achieve better results than those\nwho are motivated by ever-changing headlines, chatter and promises.\nLong-term individual owners are both the “partners” Charlie and I have always sought and the ones we\nconstantly have in mind as we make decisions at Berkshire. To them we say, “It feels good to ‘work’ for you, and you\nhave our thanks for your trust.”\nThe Annual Meeting",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "db23f2f4-559b-402a-a895-cd003e4baa3d",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "have our thanks for your trust.”\nThe Annual Meeting\nClear your calendar! Berkshire will have its annual gathering of capitalists in Omaha on Friday, April 29\nth\nthrough Sunday, May 1\nst\n. The details regarding the weekend are laid out on pages A-1 and A-2. Omaha eagerly awaits\nyou, as do I.\nI will end this letter with a sales pitch. “Cousin” Jimmy Buffett has designed a pontoon “party” boat that is\nnow being manufactured by Forest River, a Berkshire subsidiary. The boat will be introduced on April 29 at our",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e0da3533-3cec-424d-8a92-ffafadefb2e6",
+    "metadata": {
+      "source": "2021.txt",
+      "year": "2021"
+    },
+    "relationships": {},
+    "text": "Berkshire Bazaar of Bargains. And, for two days only, shareholders will be able to purchase Jimmy’s masterpiece at\na 10% discount. Your bargain-hunting chairman will be buying a boat for his family’s use. Join me.\nFebruary 26, 2022Warren E. Buffett\nChairman of the Board\n12",
+    "metadataSeparator": "\n"
+  }
+]

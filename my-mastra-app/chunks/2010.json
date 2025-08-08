@@ -1,0 +1,2212 @@
+[
+  {
+    "id_": "49905a4e-fb04-4129-98f7-afa458638c79",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Berkshire’s Corporate Performance vs. the S&P 500\nAnnual Percentage Change\nYear\nin Per-Share\nBook Value of\nBerkshire\n(1)\nin S&P 500\nwith Dividends\nIncluded\n(2)\nRelative\nResults\n(1)-(2)\n1965...................................................23.810.013.8\n1966...................................................20.3(11.7)32.0\n1967...................................................11.030.9(19.9)\n1968...................................................19.011.08.0",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "41921e46-47b2-4a5e-9bce-2c6d592a4e73",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1969...................................................16.2(8.4)24.6\n1970...................................................12.03.98.1\n1971...................................................16.414.61.8\n1972...................................................21.718.92.8\n1973...................................................4.7(14.8)19.5\n1974...................................................5.5(26.4)31.9\n1975...................................................21.937.2(15.3)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "7b1e3be3-f205-4dfd-a7bd-d68727d01db3",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1976...................................................59.323.635.7\n1977...................................................31.9(7.4)39.3\n1978...................................................24.06.417.6\n1979...................................................35.718.217.5\n1980...................................................19.332.3(13.0)\n1981...................................................31.4(5.0)36.4\n1982...................................................40.021.418.6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "48410f02-1b1b-4c0e-8794-e12d77665c33",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1983...................................................32.322.49.9\n1984...................................................13.66.17.5\n1985...................................................48.231.616.6\n1986...................................................26.118.67.5\n1987...................................................19.55.114.4\n1988...................................................20.116.63.5\n1989...................................................44.431.712.7",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8052af57-f4f8-4830-acbb-14cffab7c511",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1990...................................................7.4(3.1)10.5\n1991...................................................39.630.59.1\n1992...................................................20.37.612.7\n1993...................................................14.310.14.2\n1994...................................................13.91.312.6\n1995...................................................43.137.65.5\n1996...................................................31.823.08.8",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "95f1d740-8232-4638-adcb-ba938fb5a3e6",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1997...................................................34.133.4.7\n1998...................................................\n48.328.619.7\n1999...................................................\n.521.0(20.5)\n2000...................................................\n6.5(9.1)15.6\n2001...................................................(6.2)(11.9)5.7\n2002...................................................10.0(22.1)32.1\n2003...................................................21.028.7(7.7)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0e620da7-c19f-4680-9c62-344f240c71d9",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "2004...................................................10.510.9(.4)\n2005...................................................6.44.91.5\n2006...................................................18.415.82.6\n2007...................................................11.05.55.5\n2008...................................................(9.6)(37.0)27.4\n2009...................................................19.826.5(6.7)\n2010...................................................13.015.1(2.1)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e5a833f8-4e49-4dc6-8d37-3023e3452edf",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Compounded Annual Gain – 1965-2010.......................20.2%9.4%10.8\nOverall Gain – 1964-2010..................................490,409%6,262%\nNotes:Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended\n12/31.\nStarting in 1979, accounting rules required insurance companies to value the equity securities they hold at market\nrather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s results",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "559ddbc2-f069-4922-80da-9e4530415490",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using\nthe numbers originally reported.\nThe S&P 500 numbers arepre-taxwhereas the Berkshire numbers areafter-tax. If a corporation such as Berkshire\nwere simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500\nin years when that index showed a positive return, but would have exceeded the S&P 500 in years when the index",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "cb8df07b-414c-402e-8756-a36539a0b67c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.\n2",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3f7580cc-cfb0-4fed-b542-3ea2d7e4947d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "BERKSHIRE HATHAWAY INC.\nTo the Shareholders of Berkshire Hathaway Inc.:\nThe per-share book value of both our Class A and Class B stock increased by 13% in 2010. Over the\nlast 46 years (that is, since present management took over), book value has grown from $19 to $95,453, a rate of\n20.2% compounded annually.*\nThe highlight of 2010 was our acquisition of Burlington Northern Santa Fe, a purchase that’s working",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0b8c23e0-1733-47b5-bcb3-ca6916ddb80b",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "out even better than I expected. It now appears that owning this railroad will increase Berkshire’s “normal”\nearning power by nearly 40% pre-tax and by well over 30% after-tax. Making this purchase increased our share\ncount by 6% and used $22 billion of cash. Since we’ve quickly replenished the cash, the economics of this\ntransaction have turned out very well.\nA “normal year,” of course, is not something that either Charlie Munger, Vice Chairman of Berkshire",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "82db5e97-c1eb-4122-bbe8-f619ede6161d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "and my partner, or I can define with anything like precision. But for the purpose of estimating our current earning\npower, we are envisioning a year free of a mega-catastrophe in insurance and possessing a general business\nclimate somewhat better than that of 2010 but weaker than that of 2005 or 2006. Using these assumptions, and\nseveral others that I will explain in the “Investment” section, I can estimate that the normal earning power of the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "719c2a01-4f81-4b32-b44b-5f6fd61c24fe",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "assets we currently own is about $17 billion pre-tax and $12 billion after-tax, excluding any capital gains or\nlosses. Every day Charlie and I think about how we can build on this base.\nBoth of us are enthusiastic about BNSF’s future because railroads have major cost and environmental\nadvantages over trucking, their main competitor. Last year BNSF moved each ton of freight it carried a record\n500 miles on a single gallon of diesel fuel. That’sthreetimes more fuel-efficient than trucking is, which means",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a486fca4-cbe6-4d45-b0b4-80d610999539",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "our railroad owns an important advantage in operating costs. Concurrently, our country gains because of reduced\ngreenhouse emissions and a much smaller need for imported oil. When traffic travels by rail, society benefits.\nOver time, the movement of goods in the United States will increase, and BNSF should get its full\nshare of the gain. The railroad will need to invest massively to bring about this growth, but no one is better",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "60916bb8-066f-4f14-bee6-455bed38658b",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "situated than Berkshire to supply the funds required. However slow the economy, or chaotic the markets, our\nchecks will clear.\nLast year – in the face of widespread pessimism about our economy – we demonstrated our enthusiasm\nfor capital investment at Berkshire by spending $6 billion on property and equipment. Of this amount,\n$5.4 billion – or 90% of the total – was spent in the United States. Certainly our businesses will expand abroad in",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "266b17ea-e9f3-4a43-9604-8e1e29406586",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "the future, but an overwhelming part of their future investments will be at home. In 2011, we will set a new\nrecord for capital spending – $8 billion – and spendallof the $2 billion increase in the United States.\nMoney will always flow toward opportunity, and there is an abundance of that in America.\nCommentators today often talk of “great uncertainty.” But think back, for example, to December 6,\n1941, October 18, 1987 and September 10, 2001. No matter how serene today may be, tomorrow isalways\nuncertain.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e315189b-c72a-4ee7-a719-5f8c6011a617",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "uncertain.\n* All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are\n1/1500\nth\nof those shown for A.\n3",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "7a24cc50-2c15-4db7-a87e-5d234a8f30fb",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Don’t let that reality spook you. Throughout my lifetime, politicians and pundits have constantly\nmoaned about terrifying problems facing America. Yet our citizens now live an astonishing six times better than\nwhen I was born. The prophets of doom have overlooked the all-important factor thatiscertain: Human potential\nis far from exhausted, and the American system for unleashing that potential – a system that has worked wonders",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c9435ac0-b387-4cbe-8ebf-8fb0ba2b9365",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "for over two centuries despite frequent interruptions for recessions and even a Civil War – remains alive and\neffective.\nWe are not natively smarter than we were when our country was founded nor do we work harder. But\nlook around you and see a world beyond the dreams of any colonial citizen. Now, as in 1776, 1861, 1932 and\n1941, America’s best days lie ahead.\nPerformance\nCharlie and I believe that those entrusted with handling the funds of others should establish",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "951f9b85-c697-45f6-9a8a-11d1f7c62b65",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "performance goals at the onset of their stewardship. Lacking such standards, managements are tempted to shoot\nthe arrow of performance and then paint the bull’s-eye around wherever it lands.\nIn Berkshire’s case, we long ago told you that our job is to increase per-share intrinsic value at a rate\ngreater than the increase (including dividends) of the S&P 500. In some years we succeed; in others we fail. But,",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "00eb2141-aed6-4b1e-87bb-02a5000bc540",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "if we are unable over time to reach that goal, we have done nothing for our investors, who by themselves could\nhave realized an equal or better result by owning an index fund.\nThe challenge, of course, is the calculation of intrinsic value. Present that task to Charlie and me\nseparately, and you will get two different answers. Precision just isn’t possible.\nTo eliminate subjectivity, we therefore use anunderstatedproxy for intrinsic-value – book value –",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "6ff6ac60-d3af-45ae-9144-b49675964006",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "when measuring our performance. To be sure, some of our businesses are worth far more than their carrying\nvalue on our books. (Later in this report, we’ll present a case study.) But since that premium seldom swings\nwildly from year to year, book value can serve as a reasonable device for tracking how we are doing.\nThe table on page 2 shows our 46-year record against the S&P, a performance quite good in the earlier",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d4bcd15d-20f9-4a86-a764-b608d96ae03d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "years and now only satisfactory. The bountiful years, we want to emphasize, will never return. The huge sums of\ncapital we currently manage eliminateanychance of exceptional performance. We will strive, however, for\nbetter-than-average results and feel it fair for you to hold us to that standard.\nYearly figures, it should be noted, are neither to be ignored nor viewed as all-important. The pace of\nthe earth’s movement around the sun is not synchronized with the time required for either investment ideas or",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1bbfe23a-f7d3-4ce7-9b99-f20ef121d76c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "operating decisions to bear fruit. At GEICO, for example, we enthusiastically spent $900 million last year on\nadvertising to obtain policyholders who deliver us no immediate profits. If we could spend twice that amount\nproductively, we would happily do so though short-term results would be further penalized. Many large\ninvestments at our railroad and utility operations are also made with an eye to payoffs well down the road.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d323ff69-11eb-4c17-b7b2-716ee46a690f",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "To provide you a longer-term perspective on performance, we present on the facing page the yearly\nfigures from page 2 recast into a series of five-year periods. Overall, there are 42 of these periods, and they tell\nan interesting story. On a comparative basis, our best years ended in the early 1980s. Themarket’sgolden period,\nhowever, came in the 17 following years, with Berkshire achieving stellar absolute returns even as our relative\nadvantage narrowed.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5cf2b58f-f203-4a60-a358-6629f464f659",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "advantage narrowed.\nAfter 1999, the market stalled (or have you already noticed that?). Consequently, the satisfactory\nperformance relative to the S&P that Berkshire has achieved since then has delivered only moderate absolute\nresults.\nLooking forward, we hope to average several points better than the S&P – though that result is, of\ncourse, far from a sure thing. If we succeed in that aim, we will almost certainly produce better relative results in",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "4f20e8fb-d9f7-4fd9-8ee0-0abeda936081",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "bad years for the stock market and suffer poorer results in strong markets.\n4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5d2cc510-59c3-40ac-aa4b-597aa0ce3a12",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Berkshire’s Corporate Performance vs. the S&P 500 by Five-Year Periods\nAnnual Percentage Change\nFive-Year Period\nin Per-Share\nBook Value of\nBerkshire\n(1)\nin S&P 500\nwith Dividends\nIncluded\n(2)\nRelative\nResults\n(1)-(2)\n1965-1969...............................................17.25.012.2\n1966-1970...............................................14.73.910.8\n1967-1971...............................................13.99.24.7\n1968-1972...............................................16.87.59.3",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d41a6ed8-5aca-4192-b7be-80de6d0b5ffe",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1969-1973...............................................17.72.015.7\n1970-1974...............................................15.0(2.4)17.4\n1971-1975...............................................13.93.210.7\n1972-1976...............................................20.84.915.9\n1973-1977...............................................23.4(0.2)23.6\n1974-1978...............................................24.44.320.1\n1975-1979...............................................30.114.715.4",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "360224bf-833f-4a52-9a1b-81c014b94f0c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1976-1980...............................................33.413.919.5\n1977-1981...............................................29.08.120.9\n1978-1982...............................................29.914.115.8\n1979-1983...............................................31.617.314.3\n1980-1984...............................................27.014.812.2\n1981-1985...............................................32.614.618.0\n1982-1986...............................................31.519.811.7",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c48b3b00-60af-4e67-83cf-0b23d3550e67",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1983-1987...............................................27.416.411.0\n1984-1988...............................................25.015.29.8\n1985-1989...............................................31.120.310.8\n1986-1990...............................................22.913.19.8\n1987-1991...............................................25.415.310.1\n1988-1992...............................................25.615.89.8\n1989-1993...............................................24.414.59.9",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "112c4de9-8877-4440-8170-867976898e44",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1990-1994...............................................18.68.79.9\n1991-1995...............................................25.616.59.1\n1992-1996...............................................24.215.29.0\n1993-1997...............................................26.920.26.7\n1994-1998...............................................33.724.09.7\n1995-1999...............................................30.428.51.9\n1996-2000...............................................22.918.34.6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "623ddedd-cb19-46f5-bd88-6a79d4de15b6",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1997-2001...............................................14.810.74.1\n1998-2002...............................................\n10.4(0.6)11.0\n1999-2003...............................................\n6\n.0(0.6)6.6\n2000-2004...............................................8.0(2.3)10.3\n2001-2005...............................................8.00.67.4\n2002-2006...............................................13.16.26.9\n2003-2007...............................................13.312.80.5",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ef46ad63-5d3a-4e0a-8fee-359c3bb20d23",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "2004-2008...............................................6.9(2.2)9.1\n2005-2009...............................................8.60.48.2\n2006-2010...............................................10.02.37.7\nNotes:The first two periods cover the five years beginning September 30 of the previous year. The third period covers\n63 months beginning September 30, 1966 to December 31, 1971. All other periods involve calendar years.\nThe other notes on page 2 also apply to this table.\n5",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8f1f2b4b-c900-4688-9b2c-60c0cf460df2",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Intrinsic Value – Today and Tomorrow\nThough Berkshire’s intrinsic value cannot be precisely calculated, two of its three key pillars can be\nmeasured. Charlie and I rely heavily on these measurements when we make our own estimates of Berkshire’s\nvalue.\nThe first component of value is our investments: stocks, bonds and cash equivalents. At yearend these\ntotaled $158 billion at market value.\nInsurance float – money we temporarily hold in our insurance operations that does not belong to us –",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "42fdcbfd-52a7-4691-a755-01371e45f92e",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "funds $66 billion of our investments. This float is “free” as long as insurance underwriting breaks even, meaning\nthat the premiums we receive equal the losses and expenses we incur. Of course, underwriting results are volatile,\nswinging erratically between profits and losses. Over our entire history, though, we’ve been significantly\nprofitable, and I also expect us to average breakeven results or better in the future. If we do that, all of our",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "4ed3b401-ac6f-44ea-aaf0-d78b2da14a95",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "investments – those funded both by float and by retained earnings – can be viewed as an element of value for\nBerkshire shareholders.\nBerkshire’s second component of value is earnings that come from sources other than investments and\ninsurance underwriting. These earnings are delivered by our 68 non-insurance companies, itemized on page 106.\nIn Berkshire’s early years, we focused on the investment side. During the past two decades, however, we’ve",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3f3a791d-8a01-4e9f-914c-25183112247f",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "increasingly emphasized the development of earnings from non-insurance businesses, a practice that will\ncontinue.\nThe following tables illustrate this shift. In the first table, we present per-share investments at decade\nintervals beginning in 1970, three years after we entered the insurance business. We exclude those investments\napplicable to minority interests.\nYearend\nPer-Share\nInvestmentsPeriod\nCompounded Annual Increase\nin Per-Share Investments\n1970...................    $   66",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "55d65de3-30bc-4332-a6db-ee084ef97e37",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1970...................    $   66\n1980...................7541970-198027.5%\n1990...................7,7981980-199026.3%\n2000...................50,2291990-200020.5%\n2010...................94,7302000-20106.6%\nThough our compounded annual increase in per-share investments was a healthy 19.9% over the\n40-year period, our rate of increase has slowed sharply as we have focused on using funds to buy operating\nbusinesses.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "6a6c0a44-fe51-4b01-b8f9-be4bb5e1c787",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "businesses.\nThe payoff from this shift is shown in the following table, which illustrates how earnings of our\nnon-insurance businesses have increased, again on a per-share basis and after applicable minority interests.\nYear\nPer-Share\nPre-Tax EarningsPeriod\nCompounded Annual Increase in\nPer-Share Pre-Tax Earnings\n1970............$2.87\n1980............19.011970-198020.8%\n1990............102.581980-199018.4%\n2000............918.661990-200024.5%\n2010............5,926.042000-201020.5%\n6",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "6b7710c7-4aa5-4228-bf36-6c57ea24b048",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "For the forty years, our compounded annual gain in pre-tax, non-insurance earnings per share is 21.0%.\nDuring the same period, Berkshire’s stock price increased at a rate of 22.1% annually. Over time, you can expect\nour stock price to move in rough tandem with Berkshire’s investments and earnings. Market price and intrinsic\nvalue often follow very different paths – sometimes for extended periods – but eventually they meet.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "26d2f5c9-9d0f-4a25-9c1c-a22e1f59c8d7",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "There is a third, more subjective, element to an intrinsic value calculation that can be either positive or\nnegative: the efficacy with which retained earnings will be deployed in the future. We, as well as many other\nbusinesses, are likely to retain earnings over the next decade that will equal, or even exceed, the capital we presently\nemploy. Some companies will turn these retained dollars into fifty-cent pieces, others into two-dollar bills.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "6e8aba4e-d466-4536-b167-7e1741ba46a2",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "This  “what-will-they-do-with-the-money”  factor  must  always  be  evaluated  along  with  the\n“what-do-we-have-now” calculation in order for us, or anybody, to arrive at a sensible estimate of a company’s\nintrinsic value. That’s because an outside investor stands by helplessly as management reinvests his share of the\ncompany’s earnings. If a CEO can be expected to do this job well, the reinvestment prospects add to the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "f69c31ad-d581-4e73-a87f-bac92fcaf27c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "company’s current value; if the CEO’s talents or motives are suspect, today’s value must be discounted. The\ndifference in outcome can be huge. A dollar of then-value in the hands of Sears Roebuck’s or Montgomery\nWard’s CEOs in the late 1960s had a far different destiny than did a dollar entrusted to Sam Walton.\n************\nCharlie and I hope that the per-share earnings of our non-insurance businesses continue to increase at a",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3b67ffd2-9c2d-499b-9d76-f450217ab619",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "decent rate. But the job gets tougher as the numbers get larger. We will need both good performance from our\ncurrent businesses and moremajoracquisitions. We’re prepared. Our elephant gun has been reloaded, and my\ntrigger finger is itchy.\nPartially offsetting our anchor of size are several important advantages we have. First, we possess a\ncadre of truly skilled managers who have an unusual commitment to their own operations and to Berkshire.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "df001e70-8246-4e8b-85aa-3f50b9738840",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Many of our CEOs are independently wealthy and work only because they love what they do. They are\nvolunteers, not mercenaries. Because no one can offer them a job they would enjoy more, they can’t be lured\naway.\nAt Berkshire, managers can focus on running their businesses: They are not subjected to meetings at\nheadquarters nor financing worries nor Wall Street harassment. They simply get a letter from me every two years",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8d8d51e3-c93d-4072-a6b9-d16035926a3c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "(it’s reproduced on pages 104-105) and call me when they wish. And their wishes do differ: There are managers\nto whom I have not talked in the last year, while there is one with whom I talk almost daily. Our trust is in people\nrather than process. A “hire well, manage little” code suits both them and me.\nBerkshire’s CEOs come in many forms. Some have MBAs; others never finished college. Some use\nbudgets and are by-the-book types; others operate by the seat of their pants. Our team resembles a baseball squad",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "828df372-6aac-4589-9313-3292f81bb9e8",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "composed of all-stars having vastly different batting styles. Changes in our line-up are seldom required.\nOur second advantage relates to the allocation of the money our businesses earn. After meeting the\nneeds of those businesses, we have very substantial sums left over. Most companies limit themselves to\nreinvesting funds within the industry in which they have been operating. That often restricts them, however, to a",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d5ec53d9-b5a5-4202-a70a-a6b23e971081",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "“universe” for capital allocation that is both tiny and quite inferior to what is available in the wider world.\nCompetition for the few opportunities thatareavailable tends to become fierce. The seller has the upper hand, as\na girl might if she were the only female at a party attended by many boys. That lopsided situation would be great\nfor the girl, but terrible for the boys.\nAt Berkshire we face no institutional restraints when we deploy capital. Charlie and I are limited only",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c7076885-9b6c-4bd8-a72d-a67906ec4f83",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "by our ability to understand the likely future of a possible acquisition. If we clear that hurdle – and frequently we\ncan’t – we are then able to compare any one opportunity against a host of others.\n7",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "f663a10c-92d4-4a11-b8d1-3f5f2424f94e",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "When I took control of Berkshire in 1965, I didn’t exploit this advantage. Berkshire was then only in\ntextiles, where it had in the previous decade lost significant money. The dumbest thing I could have done was to\npursue “opportunities” to improve and expand the existing textile operation – so for years that’s exactly what I\ndid. And then, in a final burst of brilliance, I went out and boughtanothertextile company. Aaaaaaargh!",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "89e84241-4be9-4e68-9fb9-830c3515bf91",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Eventually I came to my senses, heading first into insurance and then into other industries.\nThere is even a supplement to this world-is-our-oyster advantage: In addition to evaluating the\nattractions of one business against a host of others, we also measure businesses against opportunities available in\nmarketable securities, a comparison most managements don’t make. Often, businesses are priced ridiculously",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1669f311-2c68-4392-921f-ca664ac8f993",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "high against what can likely be earned from investments in stocks or bonds. At such moments, we buy securities\nand bide our time.\nOur flexibility in respect to capital allocation has accounted for much of our progress to date. We have\nbeen able to take money we earn from, say, See’s Candies or Business Wire (two of our best-run businesses, but\nalso two offering limited reinvestment opportunities) and use it as part of the stake we needed to buy BNSF.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c512ce7c-c951-4c32-bbe1-8ce17386d497",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Our final advantage is the hard-to-duplicate culture that permeates Berkshire. And in businesses,\nculture counts.\nTo start with, the directors who represent you think and act like owners. They receive token\ncompensation: no options, no restricted stock and, for that matter, virtually no cash. We do not provide them\ndirectors and officers liability insurance, a given at almost every other large public company. If they mess up",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "69928517-5c18-45a1-8aec-dc519a335632",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "with your money, they will lose their money as well. Leaving my holdings aside, directors and their families own\nBerkshire shares worth more than $3 billion. Our directors, therefore, monitor Berkshire’s actions and results\nwith keen interest and an owner’s eye. You and I are lucky to have them as stewards.\nThis same owner-orientation prevails among our managers. In many cases, these are people who have",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a2f67cc6-d2f5-4c5b-9a3f-ea6251c1d383",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "sought out Berkshire as an acquirer for a business that they and their families have long owned. They came to us\nwith an owner’s mindset, and we provide an environment that encourages them to retain it. Having managers\nwho love their businesses is no small advantage.\nCultures self-propagate. Winston Churchill once said, “You shape your houses and then they shape\nyou.” That wisdom applies to businesses as well. Bureaucratic procedures beget more bureaucracy, and imperial",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e09176db-74d3-4606-9c4c-6797fcc9f179",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "corporate palaces induce imperious behavior. (As one wag put it, “You know you’re no longer CEO when you\nget in the back seat of your car and it doesn’t move.”) At Berkshire’s “World Headquarters” our annual rent is\n$270,212. Moreover, the home-office investment in furniture, art, Coke dispenser, lunch room, high-tech\nequipment – you name it – totals $301,363. As long as Charlie and I treat your money as if it were our own,\nBerkshire’s managers are likely to be careful with it as well.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "fbe24b9e-c896-4549-af25-45690d6b3068",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Our compensation programs, our annual meeting and even our annual reports are all designed with an\neye to reinforcing the Berkshire culture, and making it one that will repel and expel managers of a different bent.\nThis culture grows stronger every year, and it will remain intact long after Charlie and I have left the scene.\nWe will need all of the strengths I’ve just described to do reasonably well. Our managers will deliver;",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ee455415-ef2d-4dfd-b6e7-b111bc802cff",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "you can count on that. But whether Charlie and I can hold up our end in capital allocation depends in part on the\ncompetitive environment for acquisitions. You will get our best efforts.\nGEICO\nNow let me tell you a story that will help you understand how the intrinsic value of a business can far\nexceed its book value. Relating this tale also gives me a chance to relive some great memories.\nSixty years ago last month, GEICO entered my life, destined to shape it in a huge way. I was then a",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a0bcd247-2b08-4c01-b58d-9c5baadf559b",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "20-year-old graduate student at Columbia, having elected to go there because my hero, Ben Graham, taught a\nonce-a-week class at the school.\n8",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d8523835-d38b-487f-b578-81c917d4cb9f",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "One day at the library, I checked out Ben’s entry in Who’s Who in America and found he was\nchairman of Government Employees Insurance Co. (now called GEICO). I knew nothing of insurance and had\nnever heard of the company. The librarian, however, steered me to a large compendium of insurers and, after\nreading the page on GEICO, I decided to visit the company. The following Saturday, I boarded an early train for\nWashington.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "996071d3-e516-4fae-8ac7-33b39bd8a3bb",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Washington.\nAlas, when I arrived at the company’s headquarters, the building was closed. I then rather frantically\nstarted pounding on a door, until finally a janitor appeared. I asked him if there was anyone in the office I could\ntalk to, and he steered me to the only person around, Lorimer Davidson.\nThat was my lucky moment. During the next four hours, “Davy” gave me an education about both\ninsurance and GEICO. It was the beginning of a wonderful friendship. Soon thereafter, I graduated from",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "192907de-4dc0-43a6-983b-e9c4de0991ed",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Columbia and became a stock salesman in Omaha. GEICO, of course, was my prime recommendation, which got\nme off to a great start with dozens of customers. GEICO also jump-started my net worth because, soon after\nmeeting Davy, I made the stock 75% of my $9,800 investment portfolio. (Even so, I feltover-diversified.)\nSubsequently, Davy became CEO of GEICO, taking the company to undreamed-of heights before it got",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "2c5a8d35-0681-44e2-ad42-5c7a8ed4967e",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "into trouble in the mid-1970s, a few years after his retirement. When that happened – with the stock falling by\nmore than 95% – Berkshire bought about one-third of the company in the market, a position that over the years\nincreased to 50% because of GEICO’s repurchases of its own shares. Berkshire’s cost for this half of the business\nwas $46 million. (Despite the size of our position, we exercised no control over operations.)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "194bd2ec-3076-4d17-a10d-405996244b74",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "We then purchased the remaining 50% of GEICO at the beginning of 1996, which spurred Davy, at 95,\nto make a video tape saying how happy he was that his beloved GEICO would permanently reside with\nBerkshire. (He also playfully concluded with, “Next time, Warren, please make an appointment.”)\nA lot has happened at GEICO during the last 60 years, but its core goal – saving Americans substantial\nmoney  on  their  purchase  of  auto  insurance  –  remains  unchanged.  (Try  us  at  1-800-847-7536  or",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "433406f0-7163-49f9-9177-95e4a8b9e5ae",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "www.GEICO.com.) In other words, get the policyholder’s business bydeservinghis business. Focusing on this\nobjective, the company has grown to be America’s third-largest auto insurer, with a market share of 8.8%.\nWhen Tony Nicely, GEICO’s CEO, took over in 1993, that share was 2.0%, a level at which it had\nbeen stuck for more than a decade. GEICO became a different company under Tony, finding a path to consistent\ngrowth while simultaneously maintaining underwriting discipline and keeping its costs low.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "228e6024-5efb-4129-a929-babd16743ed1",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Let me quantify Tony’s achievement. When, in 1996, we bought the 50% of GEICO we didn’t already\nown, it cost us about $2.3 billion. That price implied a value of $4.6 billion for 100%. GEICO then had tangible\nnet worth of $1.9 billion.\nThe excess over tangible net worth of the implied value – $2.7 billion – was what we estimated\nGEICO’s “goodwill” to be worth at that time. That goodwill represented the economic value of the policyholders",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "314bcada-5fe4-4cf7-94cb-51a792692ffc",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "who were then doing business with GEICO. In 1995, those customers had paid the company $2.8 billion in\npremiums. Consequently, we were valuing GEICO’s customers at about 97% (2.7/2.8) of what they were\nannually paying the company. By industry standards, that was a very high price. But GEICO was no ordinary\ninsurer: Because of the company’s low costs, its policyholders were consistently profitable and unusually loyal.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e3cd9ead-ff8e-4d05-8c84-a966ab609b75",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Today, premium volume is $14.3 billion and growing. Yet we carry the goodwill of GEICO on our\nbooks at only $1.4 billion, an amount that will remain unchanged no matter how much the value of GEICO\nincreases. (Under accounting rules, you write down the carrying value of goodwill if its economic value\ndecreases, but leave it unchanged if economic value increases.) Using the 97%-of-premium-volume yardstick we",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "bc6ccf96-f4e1-4961-9de7-2e214c21929b",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "applied to our 1996 purchase, the real value today of GEICO’s economic goodwill is about $14 billion. And this\nvalue is likely to be much higher ten and twenty years from now. GEICO – off to a strong start in 2011 – is the\ngift that keeps giving.\n9",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ea5537c5-dc50-4cff-b7a5-37a408f01510",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "One not-so-small footnote: Under Tony, GEICO has developed one of the country’s largest personal-\nlines insuranceagencies, which primarily sells homeowners policies to our GEICO auto insurance customers. In\nthis business, we represent a number of insurers that are not affiliated with us. They take the risk; we simply sign\nup the customers. Last year we sold 769,898 new policies at this agency operation, up 34% from the year before.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b7b0b8a2-7fe8-42f7-ad82-99bd8d74c94c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "The obvious way this activity aids us is that it produces commission revenue; equally important is the fact that it\nfurther strengthens our relationship with our policyholders, helping us retain them.\nI owe an enormous debt to Tony and Davy (and, come to think of it, to that janitor as well).\n************\nNow, let’s examine the four major sectors of Berkshire. Each has vastly different balance sheet and",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ef385e6f-028b-4873-9f28-6a2ec52eb787",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "income characteristics from the others. Lumping them together therefore impedes analysis. So we’ll present them\nas four separate businesses, which is how Charlie and I view them.\nWe will look first at insurance, Berkshire’s core operation and the engine that has propelled our\nexpansion over the years.\nInsurance\nProperty-casualty (“P/C”) insurers receive premiums upfront and pay claims later. In extreme cases,",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c95c4511-d4d8-44ed-b7c5-80d9d0726adc",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "such as those arising from certain workers’ compensation accidents, payments can stretch over decades. This\ncollect-now, pay-later model leaves us holding large sums – money we call “float” – that will eventually go to\nothers. Meanwhile, we get to invest this float for Berkshire’s benefit. Though individual policies and claims\ncome and go, the amount of float we hold remains remarkably stable in relation to premium volume.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d165ce9f-9aa2-475c-9c16-0cc8931c1be4",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Consequently, as our business grows, so does our float. And how we have grown: Just take a look at the\nfollowing table:\nYearend\nFloat\n(in $ millions)\n1970........................................$   39\n1980........................................237\n1990........................................1,632\n2000........................................27,871\n2010........................................65,832\nIf our premiums exceed the total of our expenses and eventual losses, we register an underwriting profit",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "356fe8f4-3fb5-467e-ac7d-2e013b4fa740",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "that adds to the investment income that our float produces. When such a profit occurs, we enjoy the use of free\nmoney – and, better yet, getpaidfor holding it. Alas, the wish of all insurers to achieve this happy result creates\nintense competition, so vigorous in most years that it causes the P/C industry as a whole to operate at a\nsignificant underwritingloss. This loss, in effect, is what the industry pays to hold its float. For example, State",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "43861705-9e58-4a63-8d6c-d444b78694e6",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Farm, by far the country’s largest insurer and a well-managed company, has incurred an underwriting loss in\nseven of the last ten years. During that period, its aggregate underwriting loss was more than $20 billion.\nAt Berkshire, we have now operated at an underwriting profit for eight consecutive years, our total\nunderwriting gain for the period having been $17 billion. I believe it likely that we will continue to underwrite",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "40439c50-a687-4862-8edc-a5794505ce48",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "profitably in most – though certainly not all – future years. If we accomplish that, our float will be better than\ncost-free. We will benefit just as we would if some party deposited $66 billion with us, paid us a fee for holding\nits money and then let us invest its funds for our own benefit.\n10",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ca2fdab1-4d4d-4396-8aa2-2aac094f9825",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Let me emphasize again that cost-free float isnotan outcome to be expected for the P/C industry as a\nwhole: In most years, industry premiums have been inadequate to cover claims plus expenses. Consequently, the\nindustry’s overall return on tangible equity has for many decades fallen far short of the average return realized by\nAmerican industry, a sorry performance almost certain to continue. Berkshire’s outstanding economics exist only",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "7d53213f-dc46-4d50-8e8d-32f0bdb0b8ec",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "because we have some terrific managers running some unusual businesses. We’ve already told you about GEICO,\nbut we have two other very large operations, and a bevy of smaller ones as well, each a star in its own way.\n************\nFirst off is the Berkshire Hathaway Reinsurance Group, run by Ajit Jain. Ajit insures risks that no one\nelse has the desire or the capital to take on. His operation combines capacity, speed, decisiveness and, most",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a3a9f085-8573-4fac-acff-f22ccd931216",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "importantly, brains in a manner that is unique in the insurance business. Yet he never exposes Berkshire to risks\nthat are inappropriate in relation to our resources. Indeed, we arefarmore conservative than most large insurers\nin that respect. In the past year, Ajit has significantly increased his life reinsurance operation, developing annual\npremium volume of about $2 billion that will repeat for decades.\nFrom a standing start in 1985, Ajit has created an insurance business with float of $30 billion and",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1fdd876b-b992-4ec0-9f49-fc7ded784d17",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "significant underwriting profits, a feat that no CEO of any other insurer has come close to matching. By his\naccomplishments, he has added a great many billions of dollars to the value of Berkshire. Even kryptonite\nbounces off Ajit.\n************\nWe have another insurance powerhouse in General Re, managed by Tad Montross.\nAt bottom, a sound insurance operation requires four disciplines: (1) An understanding ofallexposures",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3827fd7f-5fcf-4c76-a065-08cd50cc0dbe",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "that might cause a policy to incur losses; (2) A conservative evaluation of the likelihood of any exposure actually\ncausing a loss and the probable cost if it does; (3) The setting of a premium that will deliver a profit, on average,\nafter both prospective loss costs and operating expenses are covered; and (4) The willingness to walk away if the\nappropriate premium can’t be obtained.\nMany insurers pass the first three tests and flunk the fourth. The urgings of Wall Street, pressures from",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8447471c-e9e0-497e-98df-885bc696a659",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "the agency force and brokers, or simply a refusal by a testosterone-driven CEO to accept shrinking volumes has\nled too many insurers to write business at inadequate prices. “The other guy is doing it so we must as well” spells\ntrouble in any business, but none more so than insurance.\nTad has observed all four of the insurance commandments, and it shows in his results. General Re’s huge\nfloat has been better than cost-free under his leadership, and we expect that, on average, it will continue to be.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b1cc3c5b-d56b-4d51-9a8c-de0b560a767d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "************\nFinally, we own a group of smaller companies, most of them specializing in odd corners of the\ninsurance world. In aggregate, their results have consistently been profitable and, as the table below shows, the\nfloat they provide us is substantial. Charlie and I treasure these companies and their managers.\nHere is the record of all four segments of our property-casualty and life insurance businesses:\nUnderwriting Profit\nYearend Float\n(in millions)\nInsurance Operations2010200920102009",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a1f754f4-55ce-44a9-a37e-a2bbf97918a1",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "(in millions)\nInsurance Operations2010200920102009\nGeneral Re......................    $ 452$ 477$20,049$21,014\nBH Reinsurance..................17625030,37027,753\nGEICO.........................1,11764910,2729,613\nOther Primary...................268845,1415,061\n$2,013$1,460$65,832$63,441\nAmong large insurance operations, Berkshire’s impresses me as the best in the world.\n11",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "f1199cf1-7c31-4067-9cd1-d4fe4902f9cc",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Manufacturing, Service and Retailing Operations\nOur activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance\nsheet and earnings statement for the entire group.\nBalance Sheet 12/31/10 (in millions)\nAssets\nCash and equivalents.................  $2,673\nAccounts and notes receivable..........5,396\nInventory..........................7,101\nOther current assets..................550\nTotal current assets...................15,720\nGoodwill and other intangibles.........16,976",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "2f9ff108-0938-4772-a852-2868bab3203a",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Goodwill and other intangibles.........16,976\nFixed assets........................15,421\nOther assets........................3,029\n$51,146\nLiabilities and Equity\nNotes payable.......................  $1,805\nOther current liabilities...............8,169\nTotal current liabilities................9,974\nDeferred taxes......................3,001\nTerm debt and other liabilities..........6,621\nEquity.............................31,550\n$51,146\nEarnings Statement (in millions)\n201020092008",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a6af6d69-3e16-49eb-847c-6da3e161cc64",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Earnings Statement (in millions)\n201020092008\nRevenues.........................................................$66,610  $61,665  $66,099\nOperating expenses (including depreciation of $1,362 in 2010, $1,422 in 2009\nand $1,280 in 2008)...............................................62,225   59,509   61,937\nInterest expense....................................................11198139\nPre-tax earnings....................................................4,274*   2,058*   4,023*",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "720d4187-0454-48eb-8db2-f9490182a640",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Income taxes and non-controlling interests...............................1,812945    1,740\nNet earnings.......................................................  $2,462  $ 1,113  $ 2,283\n*Does not include purchase-accounting adjustments.\nThis group of companies sells products ranging from lollipops to jet airplanes. Some of the businesses\nenjoy terrific economics, measured by earnings on unleveraged nettangibleassets that run from 25% after-tax to",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "201427a7-bc27-4ed6-a98f-f5308dc5ca9e",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "more than 100%. Others produce good returns in the area of 12-20%. Unfortunately, a few have very poor\nreturns, a result of some serious mistakes I have made in my job of capital allocation. These errors came about\nbecause I misjudged either the competitive strength of the business I was purchasing or the future economics of\nthe industry in which it operated. I try to look out ten or twenty years when making an acquisition, but sometimes\nmy eyesight has been poor.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d50f17f4-a087-4220-b93b-154a2f8ebbe9",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "my eyesight has been poor.\nMost of the companies in this section improved their earnings last year and four set records. Let’s look\nfirst at the record-breakers.\n•  TTI, our electronic components distributor, had sales 21% above its previous high (recorded in 2008)\nand pre-tax earnings that topped its earlier record by 58%. Its sales gains spanned three continents, with\nNorth America at 16%, Europe at 26%, and Asia at 50%. The thousands of items TTI distributes are",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "4c96ad3b-07fc-493c-b3a2-d1debbc23020",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "pedestrian, many selling for less than a dollar. The magic of TTI’s exceptional performance is created\nby Paul Andrews, its CEO, and his associates.\n12",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "13b3818b-e095-4a9d-8784-71f7483621ed",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "•  Forest River, our RV and boat manufacturer, had record sales of nearly $2 billion and record earnings\nas well. Forest River has 82 plants, and I have yet to visit one (or the home office, for that matter).\nThere’s no need; Pete Liegl, the company’s CEO, runs a terrific operation. Come view his products at\nthe annual meeting. Better yet, buy one.\n•  CTB, our farm-equipment company, again set an earnings record. I told you in the 2008 Annual Report",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "40fc1b14-e995-4fc4-9dd9-05a9eda8b738",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "about Vic Mancinelli, the company’s CEO. He just keeps getting better. Berkshire paid $140 million\nfor CTB in 2002. It has since paid us dividends of $160 million and eliminated $40 million of debt.\nLast year it earned $106 million pre-tax. Productivity gains have produced much of this increase. When\nwe bought CTB, sales per employee were $189,365; now they are $405,878.\n•  Would you believe shoes? H. H. Brown, run by Jim Issler and best known for its Born brand, set a new",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "521398ef-0d3e-4ad4-8f0a-822eed728031",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "record for sales and earnings (helped by its selling 1,110 pairs of shoes at our annual meeting). Jim has\nbrilliantly adapted to major industry changes. His work, I should mention, is overseen by Frank\nRooney, 89, a superb businessman and still a dangerous fellow with whom to have a bet on the golf\ncourse.\nA huge story in this sector’s year-to-year improvement occurred at NetJets. I can’t overstate the\nbreadth and importance of Dave Sokol’s achievements at this company, the leading provider of fractional",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "6f4475cb-8967-4b26-a7ad-022f1eb09b6c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "ownership of jet airplanes. NetJets has long been an operational success, owning a 2010 market share five times\nthat of its nearest competitor. Our overwhelming leadership stems from a wonderful team of pilots, mechanics\nand service personnel. This crew again did its job in 2010, with customer satisfaction, as delineated in our regular\nsurveys, hitting new highs.\nEven though NetJets was consistently a runaway winner with customers, our financial results, since its",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "dabac82c-da4a-44f5-bae2-b4186cc22252",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "acquisition in 1998, were a failure. In the 11 years through 2009, the company reported an aggregate pre-tax loss\nof $157 million, a figure that was far understated since borrowing costs at NetJets were heavily subsidized by its\nfree use of Berkshire’s credit. Had NetJets been operating on a stand-alone basis, its loss over the years would\nhave been several hundreds of millions greater.\nWe are now charging NetJets an appropriate fee for Berkshire’s guarantee. Despite this fee (which",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "17baaa90-5b03-4411-bd13-949d6c96f554",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "came to $38 million in 2010), NetJets earned $207 million pre-tax in 2010, a swing of $918 million from 2009.\nDave’s quick restructuring of management and the company’s rationalization of its purchasing and spending\npolicies has ended the hemorrhaging of cash and turned what was Berkshire’s only major business problem into a\nsolidly profitable operation.\nDave has meanwhile maintained NetJets’ industry-leading reputation for safety and service. In many",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8fd7504d-77a3-4613-9778-3cd5875e03ed",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "important ways, our training and operational standards are considerably stronger than those required by the FAA.\nMaintaining top-of-the-line standards is the right thing to do, but I also have a selfish reason for championing this\npolicy. My family and I have flown more than 5,000 hours on NetJets (that’s equal to being airborne 24 hours a\nday for seven months) and will fly thousands of hours more in the future. We receive no special treatment and",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "30ad507b-1a35-4e79-9d07-ac62eb1b142d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "have used a random mix of at least 100 planes and 300 crews. Whichever the plane or crew, we always know we\nare flying with the best-trained pilots in private aviation.\nThe largest earner in our manufacturing, service and retailing sector is Marmon, a collection of 130\nbusinesses. We will soon increase our ownership in this company to 80% by carrying out our scheduled purchase\nof 17% of its stock from the Pritzker family. The cost will be about $1.5 billion. We will then purchase the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a72b547e-c901-420d-9f61-7509e8b3e55e",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "remaining Pritzker holdings in 2013 or 2014, whichever date is selected by the family. Frank Ptak runs Marmon\nwonderfully, and we look forward to 100% ownership.\n13",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3ce3f903-3e58-42dc-92f1-2f6f28baae1d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Next to Marmon, the two largest earners in this sector are Iscar and McLane. Both had excellent years.\nIn 2010, Grady Rosier’s McLane entered the wine and spirits distribution business to supplement its $32 billion\noperation as a distributor of food products, cigarettes, candy and sundries. In purchasing Empire Distributors, an\noperator in Georgia and North Carolina, we teamed up with David Kahn, the company’s dynamic CEO. David is",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "76784620-3ab4-4ce0-97f6-2a6eeb47a8d5",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "leading our efforts to expand geographically. By yearend he had already made his first acquisition, Horizon Wine\nand Spirits in Tennessee.\nAt Iscar, profits were up 159% in 2010, and we may well surpass pre-recession levels in 2011. Sales\nare improving throughout the world, particularly in Asia. Credit Eitan Wertheimer, Jacob Harpaz and Danny\nGoldman for an exceptional performance, one far superior to that of Iscar’s main competitors.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "74a6639f-0a3e-46da-af78-3a5c3eea810d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "All that is good news. Our businesses related to home construction, however, continue to struggle.\nJohns Manville, MiTek, Shaw and Acme Brick have maintained their competitive positions, but their profits are\nfar below the levels of a few years ago. Combined, these operations earned $362 million pre-tax in 2010\ncompared to $1.3 billion in 2006, and their employment has fallen by about 9,400.\nA housing recovery will probably begin within a year or so. In any event, it is certain to occur at some",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "f6d96478-70ac-42e3-a335-c0fc6b686f50",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "point. Consequently: (1) At MiTek, we have made, or committed to, five bolt-on acquisitions during the past\neleven months; (2) At Acme, we just recently acquired the leading manufacturer of brick in Alabama for\n$50 million; (3) Johns Manville is building a $55 million roofing membrane plant in Ohio, to be completed next\nyear; and (4) Shaw will spend $200 million in 2011 on plant and equipment, all of it situated in America. These",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b2cca7d6-de56-46bc-bb9d-bd0ae7ecc1d9",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "businesses entered the recession strong and will exit it stronger. At Berkshire, our time horizon is forever.\nRegulated, Capital-Intensive Businesses\nWe have two very large businesses, BNSF and MidAmerican Energy, with important common\ncharacteristics that distinguish them from our many others. Consequently, we give them their own sector in this\nletter and split out their financial statistics in our GAAP balance sheet and income statement.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "28537a60-4fcc-456e-80d5-a3dca0e37ec6",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "A key characteristic of both companies is the huge investment they have in very long-lived, regulated\nassets, with these funded by large amounts of long-term debt that isnotguaranteed by Berkshire. Our credit is\nnot needed: Both businesses have earning power that, even under very adverse business conditions, amply covers\ntheir interest requirements. For example, in recessionary 2010 with BNSF’s car loadings far off peak levels, the\ncompany’s interest coverage was 6:1.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "771d49b1-96cb-4b39-abb4-c44d43109299",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "company’s interest coverage was 6:1.\nBoth companies are heavily regulated, and both will have a never-ending need to make major\ninvestments in plant and equipment. Both also need to provide efficient, customer-satisfying service to earn the\nrespect of their communities and regulators. In return, both need to be assured that they will be allowed to earn\nreasonable earnings on future capital investments.\nEarlier I explained just how important railroads are to our country’s future. Rail moves 42% of",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ca75ec14-f74a-446f-9b73-b31aa587fc08",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "America’s inter-city freight, measured by ton-miles, and BNSF moves more than any other railroad – about 28%\nof the industry total. A little math will tell you that more than 11% ofallinter-city ton-miles of freight in the U.S.\nis transported by BNSF. Given the shift of population to the West, our share may well inch higher.\nAll of this adds up to a huge responsibility. We are a major and essential part of the American",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a031ece7-b924-42cf-992e-456ee467f362",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "economy’s circulatory system, obliged to constantly maintain and improve our 23,000 miles of track along with\nits ancillary bridges, tunnels, engines and cars. In carrying out this job, we must anticipate society’s needs, not\nmerely react to them. Fulfilling our societal obligation, we will regularly spend far more than our depreciation,\nwith this excess amounting to $2 billion in 2011. I’m confident we will earn appropriate returns on our huge",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3451abf2-2a04-4026-9608-c0833cec4b2a",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "incremental investments. Wise regulation and wise investment are two sides of the same coin.\nAt MidAmerican, we participate in a similar “social compact.” We are expected to put up ever-\nincreasing sums to satisfy the future needs of our customers. If we meanwhile operate reliably and efficiently, we\nknow that we will obtain a fair return on these investments.\n14",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3faea3cb-9ebc-4b13-ad56-8f4090b6eaf6",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "MidAmerican supplies 2.4 million customers in the U.S. with electricity, operating as the largest\nsupplier in Iowa, Wyoming and Utah and as an important provider in other states as well. Our pipelines transport\n8% of the country’s natural gas. Obviously, many millions of Americans depend on us every day.\nMidAmerican has delivered outstanding results for both its owners (Berkshire’s interest is 89.8%) and its\ncustomers. Shortly after MidAmerican purchased Northern Natural Gas pipeline in 2002, that company’s",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "f5d59cb8-48cb-4b93-983a-ea7c381293b4",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "performance as a pipeline was rated dead last, 43 out of 43, by the leading authority in the field. In the most recent\nreport published, Northern Natural was ranked second. The top spot was held by our other pipeline, Kern River.\nIn its electric business, MidAmerican has a comparable record. Iowa rates have not increased since we\npurchased our operation there in 1999. During the same period, the other major electric utility in the state has",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8e0f5ace-5b95-4424-856a-35decb886940",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "raised prices more than 70% and now has rates far above ours. In certain metropolitan areas in which the two\nutilities operate side by side, electric bills of our customers run far below those of their neighbors. I am told that\ncomparable houses sell at higher prices in these cities if they are located in our service area.\nMidAmerican will have 2,909 megawatts of wind generation in operation by the end of 2011, more",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b378d5f8-05e2-4a8e-8dd2-f124f951f418",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "than any other regulated electric utility in the country. The total amount that MidAmerican has invested or\ncommitted to wind is a staggering $5.4 billion. We can make this sort of investment because MidAmerican\nretainsallof its earnings, unlike other utilities that generally pay out most of what they earn.\nAs you can tell by now, I am proud of what has been accomplished for our society by Matt Rose at\nBNSF and by David Sokol and Greg Abel at MidAmerican. I am also both proud and grateful for what they have",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3006926b-f681-428f-9aeb-e4546014d544",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "accomplished for Berkshire shareholders. Below are the relevant figures:\nMidAmericanEarnings (in millions)\n20102009\nU.K. utilities............................................................   $ 333    $ 248\nIowa utility.............................................................279285\nWestern utilities.........................................................783788\nPipelines...............................................................378457",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e4ffbd96-2407-4ef7-a8ce-4c2438c1643e",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "HomeServices...........................................................4243\nOther (net)..............................................................4725\nOperating earnings before corporate interest and taxes...........................1,8621,846\nInterest, other than to Berkshire.............................................(323)(318)\nInterest on Berkshire junior debt.............................................(30)(58)\nIncome tax..............................................................(271)(313)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5d10c9df-67aa-4970-99df-cef64809dd27",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Net earnings.............................................................$1,238$1,157\nEarnings applicable to Berkshire*...........................................$1,131$1,071\n*Includes interest earned by Berkshire (net of related income taxes) of $19 in 2010 and $38 in 2009.\nBNSF\n(Historical accounting through 2/12/10; purchase accounting subsequently)(in millions)\n20102009\nRevenues...............................................................$16,850    $14,016",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "94a88ba8-dfd6-4761-87e1-c07defb3ac29",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Operating earnings.......................................................4,4953,254\nInterest (Net)............................................................507613\nPre-Tax earnings.........................................................3,9882,641\nNet earnings.............................................................2,4591,721\n15",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "54a9b390-6865-4193-b22f-fe34d2398c66",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Finance and Financial Products\nThis, our smallest sector, includes two rental companies, XTRA (trailers) and CORT (furniture), and\nClayton Homes, the country’s leading producer and financer of manufactured homes.\nBoth of our leasing businesses improved their performances last year, albeit from a very low base.\nXTRA increased the utilization of its equipment from 63% in 2009 to 75% in 2010, thereby raising pre-tax",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "cf685e21-f943-49a3-b0ee-3fb05c2188b5",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "earnings to $35 million from $17 million in 2009. CORT experienced a pickup in business as the year progressed\nand also significantly tightened its operations. The combination increased its pre-tax results from a loss of\n$3 million in 2009 to $18 million of profit in 2010.\nAt Clayton, we produced 23,343 homes, 47% of the industry’s total of 50,046. Contrast this to the peak\nyear of 1998, when 372,843 homes were manufactured. (We then had an industry share of 8%.) Sales would have",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a9c7dca3-04eb-4899-b696-cd296b61db5a",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "been terrible last year under any circumstances, but the financing problems I commented upon in the 2009 report\ncontinue to exacerbate the distress. To explain: Home-financing policies of our government, expressed through\nthe loans found acceptable by FHA, Freddie Mac and Fannie Mae, favor site-built homes and work to negate the\nprice advantage that manufactured homes offer.\nWe finance more manufactured-home buyers than any other company. Our experience, therefore,",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c9a8c46a-b71a-49ff-9010-349a3864121a",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "should be instructive to those parties preparing to overhaul our country’s home-loan practices. Let’s take a look.\nClayton owns 200,804 mortgages that it originated. (It also has some mortgage portfolios that it\npurchased.) At the origination of these contracts, the average FICO score of our borrowers was 648, and 47%\nwere 640 or below. Your banker will tell you that people with such scores are generally regarded as questionable\ncredits.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e55f2233-88b4-4040-8516-09d80da15f28",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "credits.\nNevertheless, our portfolio has performed well during conditions of stress. Here’s our loss experience\nduring the last five years for originated loans:\nYear\nNet Losses as a Percentage\nof Average Loans\n2006..............................1.53%\n2007..............................1.27%\n2008..............................1.17%\n2009..............................1.86%\n2010..............................1.72%\nOur borrowers get in trouble when they lose their jobs, have health problems, get divorced, etc. The",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "47388523-ab2a-4f6e-aa64-29c1f1e6318b",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "recession has hit them hard. But they want to stay in their homes, and generally they borrowed sensible amounts\nin relation to their income. In addition, we were keeping the originated mortgages for our own account, which\nmeans we were not securitizing or otherwise reselling them. If we were stupid in our lending,wewere going to\npay the price. That concentrates the mind.\nIf home buyers throughout the country had behaved like our buyers, America would not have had the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "10ecc9ec-062d-41c1-8ff7-c786941004b3",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "crisis that it did. Our approach was simply to get a meaningful down-payment and gearfixedmonthly payments\nto a sensible percentage of income. This policy kept Clayton solvent and also kept buyers in their homes.\nHome ownership makes sense for most Americans, particularly at today’s lower prices and bargain\ninterest rates. All things considered, the third best investment I ever made was the purchase of my home, though I",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9bbde67e-1df4-4fb5-813f-582710452833",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "would have made far more money had I instead rented and used the purchase money to buy stocks. (The two best\ninvestments were wedding rings.) For the $31,500 I paid for our house, my family and I gained 52 years of\nterrific memories with more to come.\n16",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "37568407-58ce-4053-a7b5-cbdc8d609086",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "But a house can be a nightmare if the buyer’s eyes are bigger than his wallet and if a lender – often\nprotected by a government guarantee – facilitates his fantasy. Our country’s social goal should not be to put\nfamilies into the house of their dreams, but rather to put them into a house they can afford.\nInvestments\nBelow we show our common stock investments that at yearend had a market value of more than\n$1 billion.\n12/31/10\nShares\nCompany\nPercentage of\nCompany\nOwnedCost *Market\n(in millions)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9d26a53f-ff3c-4527-a3c0-187450756de1",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Company\nOwnedCost *Market\n(in millions)\n151,610,700   American Express Company........................12.6$ 1,287  $ 6,507\n225,000,000   BYD Company, Ltd...............................9.92321,182\n200,000,000   The Coca-Cola Company..........................8.61,299   13,154\n29,109,637   ConocoPhillips..................................2.02,028    1,982\n45,022,563   Johnson & Johnson...............................1.62,749    2,785\n97,214,584   Kraft Foods Inc..................................5.63,207    3,063",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "559de821-9c85-421b-9fda-b8690823969c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "19,259,600   Munich Re......................................10.52,896    2,924\n3,947,555   POSCO........................................4.67681,706\n72,391,036   The Procter & Gamble Company....................2.64644,657\n25,848,838   Sanofi-Aventis..................................2.02,060    1,656\n242,163,773   Tesco plc.......................................3.01,414    1,608\n78,060,769   U.S. Bancorp....................................4.12,401    2,105",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ae5f6288-f92f-48d3-8f6f-54e23f99ecde",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "39,037,142   Wal-Mart Stores, Inc..............................1.11,893    2,105\n358,936,125   Wells Fargo & Company..........................6.88,015   11,123\nOthers.........................................3,020    4,956\nTotal Common Stocks Carried at Market..............$33,733  $61,513\n*This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of\nwrite-ups or write-downs that have been required.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e0e46975-5491-4e14-9262-f9e2d06f8209",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "write-ups or write-downs that have been required.\nIn our reported earnings we reflect only the dividends our portfolio companies pay us. Our share of the\nundistributed earnings of these investees, however, was more than $2 billion last year. These retained earnings\nare important. In our experience – and, for that matter, in the experience of investors over the past century –\nundistributed earnings have been either matched or exceeded by market gains, albeit in a highly irregular manner.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b3dbed5f-fbf8-4d3f-a768-74fe69031a39",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "(Indeed, sometimes the correlation goes in reverse. As one investor said in 2009: “This is worse than divorce.\nI’ve lost half my net worth – and I still have my wife.”) In the future, we expect our market gains to eventually at\nleast equal the earnings our investees retain.\n************\nIn our earlier estimate of Berkshire’s normal earning power, we made three adjustments that relate to\nfuture investment income (but didnotinclude anything for the undistributed earnings factor I have just\ndescribed).",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0c18e421-c6b0-49fc-8f8e-29deb15894a7",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "described).\nThe first adjustment was decidedly negative. Last year, we discussed five large fixed-income\ninvestments that have been contributing substantial sums to our reported earnings. One of these – our Swiss Re\nnote – was redeemed in the early days of 2011, and two others – our Goldman Sachs and General Electric\npreferred stocks – are likely to be gone by yearend. General Electric is entitled to call our preferred in October",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "aafad8b4-aa4d-4ed6-8fbd-6cc604138117",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "and has stated its intention to do so. Goldman Sachs has the right to call our preferred on 30 days notice, but has\nbeen held back by the Federal Reserve (bless it!), which unfortunately will likely give Goldman the green light\nbefore long.\n17",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ee6652dd-938c-45ee-b7db-5dae1845a8ea",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "All three of the companies redeeming must pay us a premium to do so – in aggregate about $1.4 billion –\nbut all of the redemptions are nevertheless unwelcome. After they occur, our earning power will be significantly\nreduced. That’s the bad news.\nThere are two probable offsets. At yearend we held $38 billion of cash equivalents that have been\nearning a pittance throughout 2010. At some point, however, better rates will return. They will add at least",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "77a0cbf8-2365-419f-a493-671aa93f90f4",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "$500 million – and perhaps much more – to our investment income. That sort of increase in money-market yields\nis unlikely to come soon. It is appropriate, nevertheless, for us to include improved rates in an estimate of\n“normal” earning power. Even before higher rates come about, furthermore, we could get lucky and find an\nopportunity to use some of our cash hoard at decent returns. That day can’t come too soon for me: To update\nAesop, a girl in a convertible is worth five in the phone book.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "599580ca-fc03-4092-b5d4-6f906079031c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "In addition, dividends on our current common stock holdings will almost certainly increase. The largest\ngain is likely to come at Wells Fargo. The Federal Reserve, our friend in respect to Goldman Sachs, has frozen\ndividend levels at major banks, whether strong or weak, during the last two years. Wells Fargo, though\nconsistently prospering throughout the worst of the recession and currently enjoying enormous financial strength",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "f1d8f568-69d1-4268-86d8-74dfe52b1ab4",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "and earning power, has therefore been forced to maintain an artificially low payout. (We don’t fault the Fed: For\nvarious reasons, an across-the-board freeze made sense during the crisis and its immediate aftermath.)\nAt some point, probably soon, the Fed’s restrictions will cease. Wells Fargo can then reinstate the\nrational dividend policy that its owners deserve. At that time, we would expect our annual dividends from just\nthis one security to increase by several hundreds of millions of dollars annually.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e59439f7-0727-4e62-aa09-1aca8e631210",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Other companies we hold are likely to increase their dividends as well. Coca-Cola paid us $88 million\nin 1995, the year after we finished purchasing the stock. Every year since, Coke has increased its dividend. In\n2011, we will almost certainly receive $376 million from Coke, up $24 million from last year. Within ten years, I\nwould expect that $376 million to double. By the end of that period, I wouldn’t be surprised to see our share of",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ee3bd019-a0ae-45ef-9fe0-4ca2f135129e",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Coke’sannualearnings exceed 100% of what we paid for the investment. Time is the friend of the wonderful\nbusiness.\nOverall, I believe our “normal” investment income will at least equal what we realized in 2010, though\nthe redemptions I described will cut our take in 2011 and perhaps 2012 as well.\n************\nLast summer, Lou Simpson told me he wished to retire. Since Lou was a mere 74 – an age Charlie and\nI regard as appropriate only for trainees at Berkshire – his call was a surprise.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e49b3b74-73fa-4ac6-b226-dc454252f542",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Lou joined GEICO as its investment manager in 1979, and his service to that company has been\ninvaluable. In the 2004 Annual Report, I detailed his record with equities, and I have omitted updates only\nbecause his performance made mine look bad. Who needs that?\nLou has never been one to advertise his talents. But I will: Simply put, Lou is one of the investment\ngreats. We will miss him.\n************\nFour years ago, I told you that we needed to add one or more younger investment managers to carry on",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8e351d48-f2b0-45dd-aa70-99c3fb13ca81",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "when Charlie, Lou and I weren’t around. At that time we had multiple outstanding candidates immediately\navailable for my CEO job (as we do now), but we did not have backup in the investment area.\nIt’s easy to identify many investment managers with great recent records. But past results, though\nimportant, do not suffice when prospective performance is being judged. How the record has been achieved is",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9bbd431c-5c77-4cf5-a666-1889d236aa7d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "crucial, as is the manager’s understanding of – and sensitivity to – risk (which in no way should be measured by\nbeta, the choice of too many academics). In respect to the risk criterion, we were looking for someone with a\nhard-to-evaluate skill: the ability to anticipate the effects of economic scenarios not previously observed. Finally,\nwe wanted someone who would regard working for Berkshire as far more than a job.\n18",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3f9048c3-285c-4e08-bac2-43655553588c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "When Charlie and I met Todd Combs, we knew he fit our requirements. Todd, as was the case with\nLou, will be paid a salary plus a contingent payment based on his performance relative to the S&P. We have\narrangements in place for deferrals and carryforwards that will prevent see-saw performance being met by\nundeserved payments. The hedge-fund world has witnessed some terrible behavior by general partners who have",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b134784e-7330-4c3b-89d8-e167907e6978",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "received huge payouts on the upside and who then, when bad results occurred, have walked away rich, with their\nlimited partners losing back their earlier gains. Sometimes these same general partners thereafter quickly started\nanother fund so that they could immediately participate in future profits without having to overcome their past\nlosses. Investors who put money with such managers should be labeled patsies, not partners.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "90d2e792-d697-46c0-a1d0-6ad399ba75aa",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "As long as I am CEO, I will continue to manage the great majority of Berkshire’s holdings, both bonds\nand equities. Todd initially will manage funds in the range of one to three billion dollars, an amount he can reset\nannually. His focus will be equities but he is not restricted to that form of investment. (Fund consultants like to\nrequire style boxes such as “long-short,” “macro,” “international equities.” At Berkshire our only style box is\n“smart.”)",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "379c9795-0229-4eb4-aaa8-119eaa4bd495",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "“smart.”)\nOver time, we may add one or two investment managers if we find the right individuals. Should we do\nthat, we will probably have 80% of each manager’s performance compensation be dependent on his or her own\nportfolio and 20% on that of the other manager(s). We want a compensation system that pays off big for\nindividual success but that also fosters cooperation, not competition.\nWhen Charlie and I are no longer around, our investment manager(s) will have responsibility for the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "7754d46e-b25d-43ea-be54-2a799a4f723a",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "entire portfolio in a manner then set by the CEO and Board of Directors. Because good investors bring a useful\nperspective to the purchase of businesses, we would expect them to be consulted – but not to have a vote – on the\nwisdom of possible acquisitions. In the end, of course, the Board will make the call on any major acquisition.\nOne footnote: When we issued a press release about Todd’s joining us, a number of commentators",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "009d9928-8a6e-40a4-8e59-178fbcaa08d1",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "pointed out that he was “little-known” and expressed puzzlement that we didn’t seek a “big-name.” I wonder\nhow many of them would have known of Lou in 1979, Ajit in 1985, or, for that matter, Charlie in 1959. Our goal\nwas to find a 2-year-old Secretariat, not a 10-year-old Seabiscuit. (Whoops – that may not be the smartest\nmetaphor for an 80-year-old CEO to use.)\nDerivatives\nTwo years ago, in the 2008 Annual Report, I told you that Berkshire was a party to 251 derivatives",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a701f62d-1f18-4085-8996-d5f1b6fe9d04",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "contracts (other than those used for operations at our subsidiaries, such as MidAmerican, and the few left over at\nGen Re). Today, the comparable number is 203, a figure reflecting both a few additions to our portfolio and the\nunwinding or expiration of some contracts.\nOur continuing positions, all of which I am personally responsible for, fall largely into two categories.\nWe view both categories as engaging us in insurance-like activities in which we receive premiums for assuming",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "7057660d-307c-4596-a11d-1502805884dc",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "risks that others wish to shed. Indeed, the thought processes we employ in these derivatives transactions are\nidentical to those we use in our insurance business. You should also understand that we get paid up-front when\nwe enter into the contracts and therefore run no counterparty risk. That’s important.\nOur first category of derivatives consists of a number of contracts, written in 2004-2008, that required",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c87ae4a5-772a-49ef-a9d9-5ec2069623e3",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "payments by us if there were bond defaults by companies included in certain high-yield indices. With minor\nexceptions, we were exposed to these risks for five years, with each contract covering 100 companies.\nIn aggregate, we received premiums of $3.4 billion for these contracts. When I originally told you in\nour 2007 Annual Report about them, I said that I expected the contracts would deliver us an “underwriting",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "249fdbfc-0068-46ee-a10b-4105f531e220",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "profit,” meaning that our losses would be less than the premiums we received. In addition, I said we would\nbenefit from the use of float.\n19",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "699b9e6a-56a8-4372-993b-f603ee511557",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Subsequently, as you know too well, we encountered both a financial panic and a severe recession. A\nnumber of the companies in the high-yield indices failed, which required us to pay losses of $2.5 billion. Today,\nhowever, our exposure is largely behind us because most of our higher-risk contracts have expired. Consequently, it\nappears almost certain that we will earn an underwriting profit as we originally anticipated. In addition, we have had",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1a85dfc5-e02b-44d0-90bf-b848bfe4a7f3",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "the use of interest-free float that averaged about $2 billion over the life of the contracts. In short, we charged the\nright premium, and that protected us when business conditions turned terrible three years ago.\nOur other large derivatives position – whose contracts go by the name of “equity puts” – involves\ninsurance we wrote for parties wishing to protect themselves against a possible decline in equity prices in the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9caae4cd-3b9c-4c23-8ed2-d56238f1a78d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "U.S., U.K., Europe and Japan. These contracts are tied to various equity indices, such as the S&P 500 in the U.S.\nand the FTSE 100 in the U.K. In the 2004-2008 period, we received $4.8 billion of premiums for 47 of these\ncontracts, most of which ran for 15 years. On these contracts, only the price of the indices on the termination date\ncounts: No payments can be required before then.\nAs a first step in updating you about these contracts, I can report that late in 2010, at the instigation of",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8c9e21b9-9466-4bc9-ae5b-a83c4f7940a7",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "our counterparty, we unwound eight contracts, all of them due between 2021 and 2028. We had originally\nreceived $647 million in premiums for these contracts, and the unwinding required us to pay $425 million.\nConsequently, we realized a gain of $222 million and also had the interest-free and unrestricted use of that\n$647 million for about three years.\nThose 2010 transactions left us with 39 equity put contracts remaining on our books at yearend. On",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "25745abe-2644-431c-8be5-9cc124416831",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "these, at their initiation, we received premiums of $4.2 billion.\nThe future of these contracts is, of course, uncertain. But here is one perspective on them. If the prices\nof the relevant indices are the same at the contract expiration dates as these prices were on December 31, 2010 –\nand foreign exchange rates are unchanged – we would owe $3.8 billion on expirations occurring from 2018 to\n2026. You can call this amount “settlement value.”",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1f30569c-7bfb-4cd3-85ef-35d8f5c5f784",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "2026. You can call this amount “settlement value.”\nOn our yearend balance sheet, however, we carry the liability for those remaining equity puts at\n$6.7 billion. In other words, if the prices of the relevant indices remain unchanged from that date, we will record\na $2.9 billion gain in the years to come, that being the difference between the liability figure of $6.7 billion and\nthe settlement value of $3.8 billion. I believe that equity prices will very likely increase and that our liability will",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "dce7e42a-6e19-49c3-a867-97671f78b347",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "fall significantly between now and settlement date. If so, our gain from this point will be even greater. But that,\nof course, is far from a sure thing.\nWhat is sure is that we will have the use of our remaining “float” of $4.2 billion for an average of about\n10 more years. (Neither this float nor that arising from the high-yield contracts is included in the insurance float\nfigure of $66 billion.) Since money is fungible, think of a portion of these funds as contributing to the purchase\nof BNSF.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "0c0be425-88fb-4e0e-91f1-3bba783fd62d",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "of BNSF.\nAs I have told you before, almost all of our derivatives contracts are free of any obligation to post\ncollateral – a fact that cut the premiums we could otherwise have charged. But that fact also left us feeling\ncomfortable during the financial crisis, allowing us in those days to commit to some advantageous purchases.\nForegoing some additional derivatives premiums proved to be well worth it.\nOn Reporting and Misreporting: The Numbers That Count and Those That Don’t",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "95d7bec2-5959-4b19-b663-271f0314e34a",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Earlier in this letter, I pointed out some numbers that Charlie and I find useful in valuing Berkshire and\nmeasuring its progress.\nLet’s focus here on a number we omitted, but which many in the media feature above all others: net\nincome. Important though that number may be at most companies, it is almost alwaysmeaninglessat Berkshire.\nRegardless of how our businesses might be doing, Charlie and I could – quite legally – cause net income in any\ngiven period to be almost any number we would like.\n20",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a55dca03-b175-437d-afb5-b4de6ded84b0",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "We have that flexibility becauserealizedgains or losses on investments go into the net income figure,\nwhereasunrealizedgains (and, in most cases, losses) are excluded. For example, imagine that Berkshire had a\n$10 billion increase in unrealized gains in a given year and concurrently had $1 billion of realized losses. Our net\nincome – which would count only the loss – would be reported aslessthan our operating income. If we had",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5bf31e29-1135-4a2c-98c6-3c53e3679aff",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "meanwhile realized gains in thepreviousyear, headlines might proclaim that our earnings were down X% when\nin reality our business might be much improved.\nIf we really thought net income important, we could regularly feed realized gains into it simply because\nwe have a huge amount of unrealized gains upon which to draw. Rest assured, though, that Charlie and I have\nneversold a security because of the effect a sale would have on the net income we were soon to report. We both",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b68c0407-d552-4ed6-9631-20ceb67c613c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "have a deep disgust for “game playing” with numbers, a practice that was rampant throughout corporate America\nin the 1990s and still persists, though it occurs less frequently and less blatantly than it used to.\nOperating earnings, despite having some shortcomings, are in general a reasonable guide as to how our\nbusinesses are doing. Ignore our net income figure, however. Regulations require that we report it to you. But if",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8a173c59-d553-449f-b9d8-57300b9eff44",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "you find reporters focusing on it, that will speak more to their performance than ours.\nBoth realized and unrealized gains and losses are fully reflected in the calculation of our book value.\nPay attention to the changes in that metric and to the course of our operating earnings, and you will be on the\nright track.\n************\nAs a p.s., I can’t resist pointing out just how capricious reported net income can be. Had our equity puts",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e02ed429-bac0-4569-ab9b-ea9270d48248",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "had a termination date of June 30, 2010, we would have been required to pay $6.4 billion to our counterparties at\nthat date. Security prices then generally rose in the next quarter, a move that brought the corresponding figure\ndown to $5.8 billion on September 30th. Yet the Black-Scholes formula that we use in valuing these contracts\nrequired us toincreaseour balance-sheet liability during this period from $8.9 billion to $9.6 billion, a change",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "510006df-a7b9-4c9f-97de-779b4358b31c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "that, after the effect of tax accruals, reduced our net income for the quarter by $455 million.\nBoth Charlie and I believe that Black-Scholes produces wildly inappropriate values when applied to\nlong-dated options. We set out one absurd example in these pages two years ago. More tangibly, we put our\nmoney where our mouth was by entering into our equity put contracts. By doing so, we implicitly asserted that\nthe Black-Scholes calculations used by our counterparties or their customers were faulty.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "43b4eb29-96b3-4319-bc85-ca8fb16aff9f",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "We continue, nevertheless, to use that formula in presenting our financial statements. Black-Scholes is\nthe accepted standard for option valuation – almost all leading business schools teach it – and we would be\naccused of shoddy accounting if we deviated from it. Moreover, we would present our auditors with an\ninsurmountable problem were we to do that: They have clients who are our counterparties and who use Black-",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "6a2ba81a-aec8-4db9-952f-ee01b2869d33",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Scholes values for the same contracts we hold. It would be impossible for our auditors to attest to the accuracy of\nboth their values and ours were the two far apart.\nPart of the appeal of Black-Scholes to auditors and regulators is that it produces a precise number.\nCharlie and I can’t supply one of those. We believe the true liability of our contracts to be far lower than that\ncalculated by Black-Scholes, but we can’t come up with an exact figure – anymore than we can come up with a",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "77e0757e-917d-4723-97ff-b1c8019401fc",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "precisevalue for GEICO, BNSF, or for Berkshire Hathaway itself. Our inability to pinpoint a number doesn’t\nbother us: We would rather be approximately right than precisely wrong.\nJohn Kenneth Galbraith once slyly observed that economists were most economical with ideas: They\nmade the ones learned in graduate school last a lifetime. University finance departments often behave similarly.\nWitness the tenacity with which almost all clung to the theory of efficient markets throughout the 1970s and",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9bddc3a5-c557-4c1e-ac35-aae2d27d8c56",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "1980s, dismissively calling powerful facts that refuted it “anomalies.” (I always love explanations of that kind:\nThe Flat Earth Society probably views a ship’s circling of the globe as an annoying, but inconsequential,\nanomaly.)\n21",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "799f631a-2741-4453-bb58-95f40ad89e73",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Academics’ current practice of teaching Black-Scholes as revealed truth needs re-examination. For that\nmatter, so does the academic’s inclination to dwell on the valuation of options. You can be highly successful as\nan investor without having the slightest ability to value an option. What studentsshouldbe learning is how to\nvalue a business. That’s what investing is all about.\nLife and Debt\nThe fundamental principle of auto racing is that to finish first, you must first finish. That dictum is",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e38c6704-745b-4938-ad1d-fd0c046e0936",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "equally applicable to business and guides our every action at Berkshire.\nUnquestionably, some people have become very rich through the use of borrowed money. However,\nthat’s also been a way to get very poor. When leverage works, it magnifies your gains. Your spouse thinks you’re\nclever, and your neighbors get envious. But leverage is addictive. Once having profited from its wonders, very\nfew people retreat to more conservative practices. And as we all learned in third grade – and some relearned in",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "43f338e9-dffe-4d28-85da-200f85dda285",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "2008 – any series of positive numbers, however impressive the numbers may be, evaporates when multiplied by a\nsingle zero. History tells us that leverage all too often produces zeroes, even when it is employed by very smart\npeople.\nLeverage, of course, can be lethal to businesses as well. Companies with large debts often assume that\nthese obligations can be refinanced as they mature. That assumption is usually valid. Occasionally, though, either",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "9fad9d2c-059f-43f7-8544-b931d79747f2",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "because of company-specific problems or a worldwide shortage of credit, maturities must actually be met by\npayment. For that, only cash will do the job.\nBorrowers then learn that credit is like oxygen. When either is abundant, its presence goes unnoticed.\nWhen either is missing, that’sallthat is noticed. Even a short absence of credit can bring a company to its knees.\nIn September 2008, in fact, its overnight disappearance in many sectors of the economy came dangerously close",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "283a2f84-e419-4a36-9787-c079beaa20eb",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "to bringing our entire country to its knees.\nCharlie and I havenointerest in any activity that could pose the slightest threat to Berkshire’s well-\nbeing. (With our having a combined age of 167, starting over is not on our bucket list.) We are forever conscious\nof the fact that you, our partners, have entrusted us with what in many cases is a major portion of your savings. In\naddition, important philanthropy is dependent on our prudence. Finally, many disabled victims of accidents",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c7571eee-d87b-40af-ac8d-8c4e017f42b2",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "caused by our insureds are counting on us to deliver sums payable decades from now. It would be irresponsible\nfor us to risk what all these constituencies need just to pursue a few points of extra return.\nA little personal history may partially explain our extreme aversion to financial adventurism. I didn’t\nmeet Charlie until he was 35, though he grew up within 100 yards of where I have lived for 52 years and also",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "581c80e5-6088-47cd-8431-5e1a437449b4",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "attended the same inner-city public high school in Omaha from which my father, wife, children and two\ngrandchildren graduated. Charlie and I did, however, both work as young boys at my grandfather’s grocery store,\nthough our periods of employment were separated by about five years. My grandfather’s name was Ernest, and\nperhaps no man was more aptly named. No one worked for Ernest, even as a stock boy, without being shaped by\nthe experience.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "2baa47df-020a-4019-930d-c8865c4a3186",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "the experience.\nOn the facing page you can read a letter sent in 1939 by Ernest to his youngest son, my Uncle Fred.\nSimilar letters went to his other four children. I still have the letter sent to my Aunt Alice, which I found – along\nwith $1,000 of cash – when, as executor of her estate, I opened her safe deposit box in 1970.\nErnest never went to business school – he never in fact finished high school – but he understood the",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a1d0323d-935f-44f2-9c9a-331b110a5664",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "importance of liquidity as a condition forassuredsurvival. At Berkshire, we have taken his $1,000 solution a bit\nfurther and have pledged that we will hold at least $10 billion of cash, excluding that held at our regulated utility\nand railroad businesses. Because of that commitment, we customarily keep at least $20 billion on hand so that we\ncan both withstand unprecedented insurance losses (our largest to date having been about $3 billion from Katrina,",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "41a85c49-5cb2-404e-a9bd-3ea8be19e148",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "the insurance industry’s most expensive catastrophe) and quickly seize acquisition or investment opportunities,\neven during times of financial turmoil.\n22",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "d0921e59-86d8-4265-8301-092ae820186b",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "23",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "66c3b5cd-cfc8-403a-a96a-7e8487592d0f",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "We keep our cash largely in U.S. Treasury bills and avoid other short-term securities yielding a few\nmore basis points, a policy we adhered to long before the frailties of commercial paper and money market funds\nbecame apparent in September 2008. We agree with investment writer Ray DeVoe’s observation, “More money\nhas been lost reaching for yield than at the point of a gun.” At Berkshire, we don’t rely on bank lines, and we",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "ded65a4c-edf0-4cd5-bae8-f28078f457e1",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "don’t enter into contracts that could require postings of collateral except for amounts that are tiny in relation to\nour liquid assets.\nFurthermore, not a dime of cash has left Berkshire for dividends or share repurchases during the past\n40 years. Instead, we have retainedallof our earnings to strengthen our business, a reinforcement now running\nabout $1 billion per month. Our net worth has thus increased from $48 million to $157 billion during those four",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "923ff747-face-4a3b-ad6a-add319be2bca",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "decades and our intrinsic value has grown far more. No other American corporation has come close to building\nup its financial strength in this unrelenting way.\nBy being so cautious in respect to leverage, we penalize our returns by a minor amount. Having loads of\nliquidity, though, lets us sleep well. Moreover, during the episodes of financial chaos that occasionally erupt in our\neconomy, we will be equipped both financially and emotionally to play offense while others scramble for survival.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "3bee83a1-a7b2-4df1-b93c-aacbfc2d1b40",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "That’s what allowed us to invest $15.6 billion in 25 days of panic following the Lehman bankruptcy in 2008.\nThe Annual Meeting\nThe annual meeting will be held on Saturday, April 30\nth\n. Carrie Kizer from our home office will be the\nringmaster, and her theme this year is Planes, Trains and Automobiles. This gives NetJets, BNSF and BYD a\nchance to show off.\nAs always, the doors will open at the Qwest Center at 7 a.m., and a new Berkshire movie will be shown at",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8436fdb6-c5d1-49a6-b110-a1692fa5eac7",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "8:30. At 9:30 we will go directly to the question-and-answer period, which (with a break for lunch at the Qwest’s\nstands) will last until 3:30. After a short recess, Charlie and I will convene the annual meeting at 3:45. If you decide\nto leave during the day’s question periods, please do so whileCharlieis talking. (Act fast; he can be terse.)\nThe best reason to exit, of course, is toshop. We will help you do that by filling the 194,300-square-",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "dc0286f5-3c5f-47fe-bcb8-93eb021f1ef4",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "foot hall that adjoins the meeting area with products from dozens of Berkshire subsidiaries. Last year, you did\nyour part, and most locations racked up record sales. In a nine-hour period, we sold 1,053 pairs of Justin boots,\n12,416 pounds of See’s candy, 8,000 Dairy Queen Blizzards\n®\nand 8,800 Quikut knives (that’s 16 knives per\nminute). But you can do better. Remember: Anyone who says money can’t buy happiness simply hasn’t learned\nwhere to shop.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "10d49af4-aacf-499d-b1f7-728941d1a4c8",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "where to shop.\nGEICO will have a booth staffed by a number of its top counselors from around the country, all of\nthem ready to supply you with auto insurance quotes. In most cases, GEICO will be able to give you a\nshareholder discount (usually 8%). This special offer is permitted by 44 of the 51 jurisdictions in which we\noperate. (One supplemental point: The discount is not additive if you qualify for another, such as that given",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "6ffd5941-fc95-445c-8b33-a067e1eab969",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "certain groups.) Bring the details of your existing insurance and check out whether we can save you money. For\nat least half of you, I believe we can.\nBe sure to visit the Bookworm. It will carry more than 60 books and DVDs, including the Chinese\nlanguage edition of Poor Charlie’s Almanack, the ever-popular book about my partner. So what if you can’t read\nChinese? Just buy a copy and carry it around; it will make you look urbane and erudite. Should you need to ship",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c58d655c-e405-40d3-b6cc-712a2d875d65",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "your book purchases, a shipping service will be available nearby.\nIf you are a big spender – or merely a gawker – visit Elliott Aviation on the east side of the Omaha\nairport between noon and 5:00 p.m. on Saturday. There we will have a fleet of NetJets aircraft that will get your\npulse racing. Come by bus; leave by private jet.\n24",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "e633d4ab-a744-42ee-8e55-ced125971639",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "An attachment to the proxy material that is enclosed with this report explains how you can obtain the\ncredential you will need for admission to the meeting and other events. As for plane, hotel and car reservations,\nwe have again signed up American Express (800-799-6634) to give you special help. Carol Pedersen, who\nhandles these matters, does a terrific job for us each year, and I thank her for it. Hotel rooms can be hard to find,\nbut work with Carol and you will get one.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "acd444bf-26fc-4d89-87b7-c524e6cd9667",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "but work with Carol and you will get one.\nAirlines have often jacked up prices – sometimes dramatically so – for the Berkshire weekend. If you\nare coming from far away, compare the cost of flying to Kansas City versus Omaha. The drive is about 2\n1\n⁄2hours\nand it may be that you can save significant money, particularly if you had planned to rent a car in Omaha.\nAt Nebraska Furniture Mart, located on a 77-acre site on 72\nnd\nStreet between Dodge and Pacific, we",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "fab5781c-abf3-452f-b704-97cd54a9a995",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "nd\nStreet between Dodge and Pacific, we\nwill again be having “Berkshire Weekend” discount pricing. Last year the store did $33.3 million of business\nduring its annual meeting sale, a volume that – as far as I know – exceeds the one-week total ofanyretail store\nanyplace. To obtain the Berkshire discount, you must make your purchases between Tuesday, April 26\nth\nand\nMonday, May 2\nnd\ninclusive, and also present your meeting credential. The period’s special pricing will even",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "284859b4-74bf-4bdf-851e-42c13f6ebcea",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "apply to the products of several prestigious manufacturers that normally have ironclad rules against\ndiscounting but which, in the spirit of our shareholder weekend, have made an exception for you.\nWe appreciate their cooperation. NFM is open from 10 a.m. to 9 p.m. Monday through Saturday, and 10 a.m.\nto 6 p.m. on Sunday. On Saturday this year, from 5:30 p.m. to 8 p.m., NFM is having a picnic to which you are\nall invited.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "069e3907-5d92-4e4d-8960-e91d32bf765a",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "all invited.\nAt Borsheims, we will again have two shareholder-only events. The first will be a cocktail reception\nfrom6p.m.to9p.m.onFriday,April29\nth\n. The second, the main gala, will be held on Sunday, May 1\nst\n, from\n9 a.m. to 4 p.m. On Saturday, we will be open until 6 p.m. On Sunday, around 1 p.m., I will be at Borsheims\nwith a smile and a shoeshine, selling jewelry just as I sold men’s shirts at J.C. Penney’s 63 years ago.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "cae1390a-4af0-4016-83b5-031f7a10ac64",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "I’ve told Susan Jacques, Borsheims’ CEO, that I’m still a hotshot salesman. But I see doubt in her eyes.\nSo cut loose and buy something from me for your wife or sweetheart (presumably the same person). Make me\nlook good.\nWe will have huge crowds at Borsheims throughout the weekend. For your convenience, therefore,\nshareholder prices will be available from Monday, April 25\nth\nthrough Saturday, May 7\nth\n. During that period,",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5e05e0c9-2dab-4139-8c19-ec61a2356b8a",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "th\nthrough Saturday, May 7\nth\n. During that period,\nplease identify yourself as a shareholder by presenting your meeting credentials or a brokerage statement that\nshows you are a Berkshire shareholder.\nOn Sunday, in the mall outside of Borsheims, a blindfolded Patrick Wolff, twice U.S. chess champion,\nwill take on all comers – who will have their eyes wide open – in groups of six. Nearby, Norman Beck, a",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "cc6de8c2-cf14-4207-a1ec-7361d2173165",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "remarkable magician from Dallas, will bewilder onlookers. Additionally, we will have Bob Hamman and Sharon\nOsberg, two of the world’s top bridge experts, available to play bridge with our shareholders on Sunday\nafternoon.\nGorat’s and Piccolo’s will again be open exclusively for Berkshire shareholders on Sunday, May 1\nst\n.\nBoth will be serving until 10 p.m., with Gorat’s opening at 1 p.m. and Piccolo’s opening at 4 p.m. These",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "5057456c-34d5-4bb7-9109-67a19fea8c29",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "restaurants are my favorites and – still being a growing boy – I will eat at both of them on Sunday evening.\nRemember: To make a reservation at Gorat’s, call 402-551-3733 on April 1\nst\n(but not before) and at Piccolo’s\ncall 402-342-9038.\nWe will again have the same three financial journalists lead the question-and-answer period, asking\nCharlie and me questions that shareholders have submitted to them by e-mail. The journalists and their e-mail",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "db4dc753-21d3-441d-8286-ea23ca47eb5e",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "addresses are: Carol Loomis, of Fortune, who may be emailed at cloomis@fortunemail.com; Becky Quick, of\nCNBC,  at  BerkshireQuestions@cnbc.com,  and  Andrew  Ross  Sorkin,  of  The  New  York  Times,  at\narsorkin@nytimes.com.\nFrom the questions submitted, each journalist will choose the dozen or so he or she decides are the\nmost interesting and important. The journalists have told me your question has the best chance of being selected",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "87409144-8f3b-4e6f-a43d-94b55c7ed347",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "if you keep it concise, avoid sending it in at the last moment, make it Berkshire-related and include no more than\ntwo questions in any email you send them. (In your email, let the journalist know if you would like your name\nmentioned if your question is selected.)\nNeither Charlie nor I will get so much as a clue about the questions to be asked. We know the\njournalists will pick some tough ones, and that’s the way we like it.\n25",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b7dee4d1-aa30-453d-a09b-b377924113f0",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "We will again have a drawing at 8:15 a.m. on Saturday at each of 13 microphones for those\nshareholders wishing to ask questions themselves. At the meeting, I will alternate the questions asked by the\njournalists with those from the winning shareholders. We hope to answer at least 60 questions. From our\nstandpoint, the more the better. Our goal, which we pursue both through these annual letters and by our meeting\ndiscussions, is to give you a better understanding of the business thatyouown.\n************",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "bd5cc397-2545-45d4-8913-c0584c4f8c32",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "************\nFor good reason, I regularly extol the accomplishments of our operating managers. Equally important,\nhowever, are the 20 men and women who work with me at our corporate office (all on one floor, which is the\nway we intend to keep it!).\nThis group efficiently deals with a multitude of SEC and other regulatory requirements, files a 14,097-\npage Federal income tax return along with state and foreign returns, responds to countless shareholder and media",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "76a400e8-bb0d-4420-a935-e550a1a73912",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "inquiries, gets out the annual report, prepares for the country’s largest annual meeting, coordinates the Board’s\nactivities – and the list goes on and on.\nThey handle all of these business tasks cheerfully and with unbelievable efficiency, making my life\neasy and joyful. Their efforts go beyond activities strictly related to Berkshire: They deal with 48 universities\n(selected from 200 applicants) who will send students to Omaha this school year for a day with me and also",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "1d4170fd-7928-497b-9ab0-e3531146a271",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "handle all kinds of requests that I receive, arrange my travel, and even get me hamburgers for lunch. No CEO has\nit better.\nThis home office crew has my deepest thanks and deserves yours as well. Come to our Woodstock for\nCapitalism on April 30\nth\nand tell them so.\nFebruary 26, 2011Warren E. Buffett\nChairman of the Board\n26",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "43a14493-6204-4284-a69b-e7d5a8a0dfa1",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Memo\nTo:Berkshire Hathaway Managers (“The All-Stars”)\ncc:Berkshire Directors\nFrom:Warren E. Buffett\nDate:July 26, 2010\nThis is my biennial letter to reemphasize Berkshire’s top priority and to get your help on\nsuccession planning (yours, not mine!).\nThe priority is that all of us continue to zealously guard Berkshire’s reputation. We can’t be\nperfect but we can try to be. As I’ve said in these memos for more than 25 years: “We can afford to lose",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "85f38634-8fec-43c3-83e5-c529671bb531",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "money – even a lot of money. But we can’t afford to lose reputation – even a shred of reputation.” We\nmustcontinue to measure every act against not only what is legal but also what we would be happy to have\nwritten about on the front page of a national newspaper in an article written by an unfriendly but intelligent\nreporter.\nSometimes your associates will say “Everybody else is doing it.” This rationale is almost always",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "8ef6643e-b174-405e-8a2d-4f0a1f258005",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "a bad one if it is the main justification for a business action. It is totally unacceptable when evaluating a\nmoral decision. Whenever somebody offers that phrase as a rationale, in effect they are saying that they\ncan’t come up with agoodreason. If anyone gives this explanation, tell them to try using it with a reporter\nor a judge and see how far it gets them.\nIf you see anything whose propriety or legality causes you to hesitate, be sure to give me a call.",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "aee48337-e4d3-4f35-b825-b300874fa084",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "However, it’s very likely that if a given course of action evokes such hesitation, it’s too close to the line\nand should be abandoned. There’s plenty of money to be made in the center of the court. If it’s\nquestionable whether some action is close to the line, just assume it is outside and forget it.\nAs a corollary, let me know promptly if there’s any significant bad news. I can handle bad news\nbut I don’t like to deal with it after it has festered for awhile. A reluctance to face up immediately to bad",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "07e747e0-76a3-4b54-804a-dedd6317fda9",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "news is what turned a problem at Salomon from one that could have easily been disposed of into one that\nalmost caused the demise of a firm with 8,000 employees.\n104",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "a99fa3da-f667-4584-9bc1-274609af7a0c",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "Somebody is doing something today at Berkshire that you and I would be unhappy about if we\nknew of it. That’s inevitable: We now employ more than 250,000 people and the chances of that number\ngetting through the day without any bad behavior occurring is nil. But we can have a huge effect in\nminimizing such activities by jumping on anything immediately when there is the slightest odor of\nimpropriety. Your attitude on such matters, expressed by behavior as well as words, will be the most",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c2a346e1-1947-4a5f-bff8-43dbcf5f85f6",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "important factor in how the culture of your business develops. Culture, more than rule books, determines\nhow an organization behaves.\nIn other respects, talk to me about what is going on as little or as much as you wish. Each of you\ndoes a first-class job of running your operation with your own individual style and you don’t need me to\nhelp. The only items you need to clear with me are any changes in post-retirement benefits and any\nunusually large capital expenditures or acquisitions.\n************",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b0ad1c9c-ea8d-4ceb-b31c-a5d51fae9ab1",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "************\nI need your help in respect to the question of succession. I’m not looking for any of you to retire\nand I hope you all live to 100. (In Charlie’s case, 110.) But just in case you don’t, please send me a letter\n(at home if you wish) giving your recommendation as who should take over tomorrow if you should\nbecome incapacitated overnight. These letters will be seen by no one but me unless I’m no longer CEO, in",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "b0f82775-88fa-4e7f-ac22-083cccac07fa",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "which case my successor will need the information. Please summarize the strengths and weaknesses of\nyour primary candidate as well as any possible alternates you may wish to include. Most of you have\nparticipated in this exercise in the past and others have offered your ideas verbally. However, it’s\nimportant to me to get a periodic update, and now that we have added so many businesses, I need to have\nyour thoughts in writing rather than trying to carry them around in my memory. Of course, there are a few",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "94006327-f734-4e20-853a-357ea9e438e8",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "operations that are run by two or more of you – such as the Blumkins, the Merschmans, the pair at Applied\nUnderwriters, etc. – and in these cases, just forget about this item. Your note can be short, informal,\nhandwritten, etc. Just mark it “Personal for Warren.”\nThanks for your help on all of this. And thanks for the way you run your businesses. You make\nmy job easy.\nWEB/db\nP.S. Another minor request: Please turn down all proposals for me to speak, make contributions, intercede",
+    "metadataSeparator": "\n"
+  },
+  {
+    "id_": "c305f812-d3cb-43d6-bf3f-b16726833021",
+    "metadata": {
+      "source": "2010.txt",
+      "year": "2010"
+    },
+    "relationships": {},
+    "text": "with the Gates Foundation, etc. Sometimes these requests for you to act as intermediary will be\naccompanied by “It can’t hurt to ask.” It will be easier for both of us if you just say “no.” As an added\nfavor, don’t suggest that they instead write or call me. Multiply 76 businesses by the periodic “I think he’ll\nbe interested in this one” and you can understand why it is better to say no firmly and immediately.\n105",
+    "metadataSeparator": "\n"
+  }
+]
