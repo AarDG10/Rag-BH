@@ -138,3 +138,13 @@ npm run dev
 - Retrieval & citations
   - Tool returns `text`, `source`, `year`, `score`
   - Agent instructions encourage quoting + citation by year/source
+
+## Application Preview
+
+Here is a preview of the application in action, showing the agent retrieving information and providing source-based answers.
+
+![Agent responding to a query about the 1977 letter](Screenshot%20(1089).jpg)
+
+![Agent retrieving a specific quote about textile operations](Screenshot%20(1090).jpg)
+
+![Agent providing a detailed, cited answer](Screenshot%20(1091).jpg)
