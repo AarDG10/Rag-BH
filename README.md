@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Berkshire Hathaway Intelligence (Mastra RAG)
 
 Retrieval‑Augmented Generation (RAG) system built with the Mastra framework that answers questions about Warren Buffett’s investment philosophy using Berkshire Hathaway shareholder letters. Includes ingestion, chunking, embedding, pgvector storage, a retrieval tool, and a GPT‑4o‑powered agent with persistent memory.
@@ -138,3 +139,11 @@ npm run dev
 - Retrieval & citations
   - Tool returns `text`, `source`, `year`, `score`
   - Agent instructions encourage quoting + citation by year/source
+=======
+# Rag-BH
+Building a complete RAG application using the Mastra framework that can intelligently answer questions about Warren Buffett's investment philosophy using Berkshire Hathaway shareholder letters with real-time streaming responses.
+
+```bash
+cd my-mastra-app
+npm run dev
+>>>>>>> 83aa7bd494b6456028a7b07af99cb8837d95433f
